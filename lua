@@ -1,1 +1,2951 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local Z={"\053\088\068\069\086\047\088\113\110\082\050\099\110\048\056\109";"\056\101\056\120\111\075\049\116\108\098\056\057\104\056\097\065","\053\048\052\043\083\122\068\061";"\107\121\061\061";"\048\088\102\081\053\074\049\061";"\104\051\050\116\066\082\100\099\100\089\061\061","\104\047\083\078\074\089\075\122\105\068\104\075\056\078\104\082\117\067\103\043\090\108\052\084\050\109\081\110\103\077\080\097\119\076\109\117\081\090\077\119\100\105\087\061","\100\114\102\065\100\051\052\076\083\055\066\061";"\079\069\102\113\079\069\097\116";"\100\074\090\106\079\074\110\118","\066\069\056\116\083\074\056\116\079\048\050\120\079\055\078\099";"\075\099\120\101\110\082\077\071\075\109\056\056\086\055\088\048";"\053\055\078\119\083\122\068\061";"\057\098\052\112\075\048\099\051\104\056\100\073\111\082\076\055\050\055\075\061","\048\088\102\098\079\106\061\061","\048\088\102\077\053\048\050\120\100\114\097\071\083\114\075\061";"\048\088\102\076\083\055\050\099\108\089\061\061","\112\065\100\053\086\088\099\109\053\048\110\120\056\057\053\055","\053\069\088\120\100\114\110\070";"\083\114\102\120\053\051\110\116\066\055\099\113\053\106\061\061";"\107\071\121\099\053\105\070\076\107\121\061\061","","\066\055\056\077\083\122\053\099";"\079\065\052\118\108\075\097\079\079\088\079\116\050\082\100\072\074\086\061\061";"\074\047\056\072\066\122\080\072\111\122\079\116\110\098\100\106\053\101\121\061","\066\114\110\120\083\114\106\061";"\079\098\099\116\053\086\061\061","\083\074\097\116\112\089\061\061","\112\116\111\078\079\065\050\112\075\055\078\111\053\122\076\080";"\053\069\097\077\053\086\061\061","\100\056\052\069\057\114\102\082\053\116\081\069\110\097\050\047\053\121\061\061";"\100\114\097\071\083\114\075\061";"\083\114\056\113";"\074\097\097\052\112\069\075\122\108\114\120\050\104\051\056\111\074\089\061\061";"\100\114\102\113\100\074\088\071\053\048\068\061","\079\057\053\055\107\075\053\119\110\075\099\077\110\116\050\080","\100\069\100\076\066\055\087\065\112\074\049\106";"\111\055\087\061","\083\101\082\061","\056\114\097\077\066\114\056\043\068\082\050\099\100\114\056\109\100\114\056\047\068\086\061\061";"\083\101\068\061","\079\069\120\120\066\121\061\061","\053\122\110\088\079\121\061\061","\066\055\097\113\053\114\102\077","\057\057\110\097\066\075\090\073\110\109\079\088\112\069\056\116\079\074\070\061";"\066\122\050\043\112\074\090\098";"\075\098\076\119\079\065\050\097\053\114\047\122\107\101\110\110"}local function l(l)return Z[l+(-72523-(-120198))]end for l,G in ipairs({{-327077-(-327078),-593539-(-593586)};{-441664-(-441665),-545608-(-545629)};{544251-544229,-532336+532383}})do while G[-221463-(-221464)]<G[424804+-424802]do Z[G[-694919+694920]],Z[G[-201194+201196]],G[578200-578199],G[-838767+838769]=Z[G[-830427-(-830429)]],Z[G[650191+-650190]],G[808052+-808051]+(769383+-769382),G[-84220+84222]-(-160217+160218)end end do local l=string.len local G=string.char local R=table.concat local X=string.sub local c=Z local a={j=300813+-300765;p=-684451+684477,X=-524961-(-525014),V=839169-839153;I=505125+-505114;["\053"]=-892737-(-892762),y=504439+-504407,L=630390+-630349,e=-934307+934310;E=-173850-(-173904),f=-743817+743878;w=16095-16048;K=381881-381861;q=-884862-(-884908),B=-429021+429049,D=-581497-(-581505);A=-857683-(-857734),W=722735+-722675;H=140498-140456,h=474681-474663;z=965964-965909,g=-213351+213410,r=404580-404574;a=160389-160384,l=-17663+17693;Z=-145704-(-145761);s=234103-234045;S=-29975+30002;Y=-600086+600086;n=37284+-37271,["\052"]=203466+-203457;x=156387-156354;["\048"]=589283-589260,["\057"]=633462+-633443,["\049"]=50399+-50343,N=-178304-(-178353),R=687925-687921,t=-395629+395681;["\043"]=-308012+308062,P=657033-657032,U=-918776-(-918838);u=163692-163629;k=62937-62923;["\051"]=637165+-637158,J=354390-354368;d=-446518+446547;c=634372-634335,["\047"]=-111900-(-111936),M=33186-33141;["\050"]=-210323-(-210340),G=-252192-(-252226),o=-500904-(-500916);i=-609571-(-609573);["\054"]=665599+-665568;C=503561+-503551,["\056"]=176296-176275;["\055"]=725677-725639;m=409168+-409133;F=-201694+201734,O=-255904-(-255928);v=-15364+15407;Q=349789-349745,b=317993-317954,T=-854439+854454}local U=math.floor local Y=table.insert local n=type for Z=-1038909+1038910,#c,414906+-414905 do local F=c[Z]if n(F)=="\115\116\114\105\110\103"then local n=l(F)local v={}local V=238160+-238159 local f=-161400+161400 local h=-224749+224749 while V<=n do local Z=X(F,V,V)local l=a[Z]if l then f=f+l*(64181+-64117)^((985517-985514)-h)h=h+(915786-915785)if h==-1003488-(-1003492)then h=-99583-(-99583)local Z=U(f/(-684875-(-750411)))local l=U((f%(-914930+980466))/(-698901-(-699157)))local R=f%(253166+-252910)Y(v,G(Z,l,R))f=732353+-732353 end elseif Z=="\061"then Y(v,G(U(f/(-73638-(-139174)))))if V>=n or X(F,V+(-538750+538751),V+(-92953+92954))~="\061"then Y(v,G(U((f%(-859975-(-925511)))/(253175+-252919))))end break end V=V+(607211+-607210)end c[Z]=R(v)end end end return(function(Z,R,X,c,a,U,Y,f,V,g,G,m,F,N,v,n,s,B,J,P,h)s,N,J,P,n,V,m,h,B,f,g,v,G,F=function(Z,l)local R=f(l)local X=function()return G(Z,{},l,R)end return X end,function(Z,l)local R=f(l)local X=function(X,c,a,U,Y)return G(Z,{X;c;a,U,Y},l,R)end return X end,function(Z,l)local R=f(l)local X=function(X,c,a)return G(Z,{X;c,a},l,R)end return X end,function(Z)F[Z]=F[Z]-(-1027850+1027851)if 447573+-447573==F[Z]then F[Z],n[Z]=nil,nil end end,{},30650+-30650,function(Z,l)local R=f(l)local X=function(X)return G(Z,{X},l,R)end return X end,function(Z)local l,G=-547043-(-547044),Z[-568941-(-568942)]while G do F[G],l=F[G]-(-441271-(-441272)),(-877653+877654)+l if F[G]==-1024746-(-1024746)then F[G],n[G]=nil,nil end G=Z[l]end end,function(Z,l)local R=f(l)local X=function(X,c,a,U,Y,n)return G(Z,{X;c;a,U;Y,n},l,R)end return X end,function(Z)for l=-616281-(-616282),#Z,-1007570-(-1007571)do F[Z[l]]=F[Z[l]]+(802076-802075)end if X then local G=X(true)local R=a(G)R[l(-622148+574511)],R[l(470506+-518145)],R[l(635099+-682748)]=Z,h,function()return-951961-148432 end return G else return c({},{[l(759450-807089)]=h,[l(999225-1046862)]=Z;[l(474036-521685)]=function()return 559032+-1659425 end})end end,function(Z,l)local R=f(l)local X=function(...)return G(Z,{...},l,R)end return X end,function()V=V+(788312-788311)F[V]=145801-145800 return V end,function(G,X,c,a)local r,L,z,y,Y,F,E,C,o,t,D,k,O,d,f,S,e,q,T,M,A,W,H,x,h,u,w,j,b,K,V,g,p,I while G do if G<8994865-786762 then if G<5511930-1036341 then if G<-992402+3559960 then if G<1980201-496956 then if G<1274070-615239 then if G<-400371-(-803378)then if G<-155166+414690 then o=v()O={}u=nil r=v()q=nil D=l(-836344-(-788707))h=nil L=nil G=Z[l(-866942-(-819272))]n[r]=O H=nil O=v()y=J(902141+2295477,{r,j;C,g})u=-837674+31574909354393 n[O]=y y={}x={}t=l(764111-811754)n[o]=y d=l(-504896+457258)Y={}y=Z[t]g=P(g)g=l(-419225+371591)E=nil w=n[o]p={[D]=w,[d]=L}t=y(x,p)V=t S=nil y=B(-594196+5635460,{o,r;k,j;C,O})o=P(o)j=P(j)C=P(C)k=P(k)E=l(-414525+366854)h=Z[g]r=P(r)O=P(O)C=l(189628-237275)S=Z[E]f=y j=f(C,u)q=V[j]j=l(725073+-772721)j=S[j]f=nil E={j(S,q)}V=nil g=h(R(E))h=g()else r=201119-201118 y=#H O=h(r,y)r=S(H,O)y=n[k]O=nil x=-633084+633085 t=r-x o=E(t)G=302014+11041153 y[r]=o r=nil end else f=726553-726521 V=n[c[328570-328567]]F=V%f h=n[c[-81001+81005]]j=877214+-877212 u=-909187+909200 E=n[c[923901+-923899]]O=n[c[505381+-505378]]G=9126315-135867 H=O-F O=-808816-(-808848)k=H/O C=u-k q=j^C u=676501+-676245 S=E/q q=474639-474638 g=h(S)h=4295366863-399567 f=g%h g=-206037-(-206039)h=g^F V=f/h h=n[c[-213485+213489]]E=V%q q=4294908962-(-58334)S=E*q g=h(S)h=n[c[313493+-313489]]S=h(V)f=g+S g=1021757+-956221 h=f%g E=-961898+1027434 S=f-h g=S/E E=-853119+853375 S=h%E q=h-S j=-891398+891654 h=nil F=nil E=q/j j=995299+-995043 q=g%j C=g-q f=nil j=C/u C={S,E;q;j}n[c[89856+-89855]]=C j=nil E=nil S=nil g=nil q=nil V=nil end else if G<645964+330939 then Y=l(-773814-(-726154))G=Z[Y]F=l(-785418-(-737756))Y=Z[F]F=l(-413027-(-365365))Z[F]=G F=l(-626673-(-579013))Z[F]=Y F=n[c[481542+-481541]]G=-960322+12084288 V=F()else G=true G=G and 7506384-(-896915)or 10269807-252462 end end else if G<1172287-(-790127)then if G<723074+1000205 then f=f+g E=not S V=f<=h V=E and V E=f>=h E=S and E V=E or V E=175403+16290627 G=V and E V=787029+2976856 G=G or V else G=n[c[208537+-208530]]G=G and 6963+13132177 or 459095+9115444 end else if G<2860723-828467 then H=l(-355218-(-307549))k=Z[H]G=-181356+14743279 H=l(476598-524242)u=k[H]j=u else Y={}G=true n[c[591168+-591167]]=G G=Z[l(821371-869023)]end end end else if G<3740088-(-459332)then if G<-896355+4668677 then if G<958983+2683525 then if G<3136049-(-185903)then F=n[c[-673772+673773]]Y=#F F=-383839+383839 G=Y==F G=G and 1028283+9208262 or 8362234-(-628214)else f=-982661+982662 V=n[c[-568577+568580]]F=V~=f G=F and 1435408-818877 or 6198770-(-742669)end else G=n[c[-1006262+1006272]]V=n[c[-830254-(-830265)]]F[G]=V G=n[c[-650058+650070]]V={G(F)}Y={R(V)}G=Z[l(735840+-783493)]end else if G<3809938-(-229965)then L=730697-730696 b=d[L]G=-1024829+5643424 T=b else b=n[V]T=b G=b and 872608+3021270 or 4692352-73757 end end else if G<134756+4110202 then if G<230851+3984154 then I=I+z Y=I<=K o=not y Y=o and Y o=I>=K o=y and o Y=o or Y o=4736509-514267 G=Y and o Y=973567+13437260 G=G or Y else w=730065-730064 x=368434+-368334 t=l(856381+-904054)o=v()n[o]=I Y=Z[t]t=l(59407+-107064)G=Y[t]L=l(-612665-(-565019))t=-806896-(-806897)A=192990+-182990 Y=G(t,x)d=429464-429462 t=v()p=1025715-1025460 x=-622692-(-622692)n[t]=Y G=n[E]Y=G(x,p)x=v()n[x]=Y G=n[E]p=-51032+51033 D=n[t]Y=G(p,D)p=v()n[p]=Y Y=n[E]D=Y(w,d)e=364259+-364259 Y=-697401-(-697402)G=D==Y D=v()Y=l(-62468-(-14835))n[D]=G b=Z[L]d=l(-957010+909360)W=n[E]M={W(e,A)}G=l(-79645+31987)L=b(R(M))G=O[G]b=l(985496+-1033146)T=L..b w=d..T G=G(O,Y,w)w=v()n[w]=G d=l(-345829-(-298201))T=s(9268108-(-132669),{E,o;C,f;V,r,D,w,t,p;x,j})Y=Z[d]d={Y(T)}G={R(d)}d=G G=n[D]G=G and 8392999-(-204250)or 857773+3261450 end else if G<413416+3972379 then f=n[c[-992683-(-992689)]]G=-113489+5202514 V=f==F Y=V else G=9059277-894479 K=u==k I=K end end end end else if G<144787+5714064 then if G<271325+4802963 then if G<465820+4164814 then if G<3627186-(-976604)then if G<4953273-440113 then G=227820+10869187 else G=9278870-(-428751)end else e=-983188-(-983189)n[V]=T M=n[p]W=M+e L=d[W]b=u+L L=854375-854119 G=b%L W=n[x]u=G L=k+W W=-91368+91624 G=6603022-(-1036822)b=L%W k=b end else if G<-160362+5029991 then F=X f=l(-565453+517798)G=true V=v()n[V]=G Y=Z[f]g=v()f=l(159465-207100)G=Y[f]f=v()E=l(-970607+922979)q=N(1844514-(-629259),{g})h=v()n[f]=G G=m(8423729-592217,{})n[h]=G G=false n[g]=G S=Z[E]E=S(q)Y=E G=E and 88800+11681517 or 10862509-(-128790)else F=X[777547-777546]V=X[825768+-825766]G=n[c[-145226-(-145227)]]f=G G=f[V]G=G and 4094641-(-401103)or-462802+13514542 end end else if G<6270266-832803 then if G<5328740-157111 then n[c[-262056-(-262061)]]=Y G=978651-(-767659)F=nil else G=208968-(-901608)end else if G<6330714-810825 then C=C+u H=not k q=C<=j q=H and q H=C>=j H=k and H q=H or q H=-386118+12911353 G=q and H q=-569055+13167389 G=G or q else j=v()u=-303290+303355 n[j]=Y G=n[E]C=-248785+248788 O=N(-436366+14632257,{})Y=G(C,u)C=v()G=-464102-(-464102)n[C]=Y u=G G=497018-497018 H=l(-34641-12987)k=G Y=Z[H]H={Y(O)}z=l(553403+-601049)G={R(H)}Y=341289-341287 H=G G=H[Y]Y=l(-190240+142574)O=G G=Z[Y]r=n[f]K=Z[z]z=K(O)K=l(-1040134-(-992501))I=r(z,K)r={I()}Y=G(R(r))r=v()G=1004645+3197428 n[r]=Y I=n[C]Y=236090+-236089 K=I I=-97011+97012 z=I I=-368897+368897 y=z<I I=Y-z end end end else if G<81347+7560457 then if G<-1028761+8271666 then if G<6516072-(-406077)then if G<6659721-620870 then n[V]=Y G=7233908-(-405936)else G=6937273-(-875722)V=n[c[648452+-648450]]f=n[c[-456994+456997]]F=V==f Y=F end else V=n[c[-651408-(-651411)]]f=312099+-312046 F=V*f V=-101239+101496 Y=F%V G=657251+2819422 n[c[913161-913158]]=Y end else if G<7862369-268162 then G=10820902-615110 M=-642581-(-642583)W=d[M]M=n[w]L=W==M T=L else D=P(D)t=P(t)w=P(w)d=nil o=P(o)x=P(x)G=594978+3607095 p=P(p)end end else if G<891212+6969368 then if G<7280282-(-533293)then G=Y and 12466933-(-652906)or 1308513-(-437797)else Y=l(-951598-(-903947))G=Z[Y]F=l(802737-850398)Y=G(F)Y={}G=Z[l(-505443-(-457778))]end else if G<8601291-455605 then r=#H y=244820+-244820 O=r==y G=369795+-63689 else n[V]=I G=n[V]G=G and 222693+4304029 or 321889+13727936 end end end end end else if G<-223483+11456371 then if G<-875342+11047025 then if G<10121986-690766 then if G<906983+7845656 then if G<899421+7609704 then if G<8014164-(-310548)then G=true G=G and 623620+13115018 or 392832+10976849 else y=449947-449941 z=159742+-159741 G=n[E]K=G(z,y)G=l(-246320-(-198660))Z[G]=K y=l(-977274-(-929614))z=Z[y]y=922174-922172 G=z>y G=G and 934167+12581140 or-226493+11097531 end else T=n[V]G=T and 10224453-(-731711)or 7011268-993862 Y=T end else if G<8323323-(-816141)then f=l(462958+-510627)V=Z[f]f=l(-741104-(-693473))G=Z[l(-64926-(-17296))]F=V[f]f=n[c[-609444-(-609445)]]V={F(f)}Y={R(V)}else h=-416446+416447 g=-330211+330213 V=n[c[-486380+486381]]f=V(h,g)V=704505-704504 F=f==V G=F and-229018+8042013 or 401493+5676232 Y=F end end else if G<474996+9301357 then if G<867185+8824471 then f=n[c[-196674+196683]]h=f G={}f=-133329+133330 F=G G=-664542+2326601 g=f f=784403+-784403 V=-272930-(-272931)S=g<f f=V-g else r=P(r)V=P(V)H=nil S=nil O=nil S=l(-936137-(-888464))k=nil h=P(h)E=P(E)f=P(f)u=nil E=l(149200+-196873)f=nil k=v()C=P(C)g=P(g)j=P(j)g=Z[S]q=nil V=nil S=l(-938658-(-891017))H={}j=l(994940+-1042595)h=g[S]g=v()n[g]=h S=Z[E]r=-163762-(-164018)E=l(-1045602-(-997945))h=S[E]q=l(-246764+199095)O=829064+-829063 E=Z[q]q=l(-306215-(-258584))y=r S=E[q]r=-281818-(-281819)q=Z[j]o=r j=l(164810+-212469)E=q[j]u={}q=566385-566385 r=-424122+424122 G=10507041-(-646191)j=v()C=v()n[j]=q q=-507051+507053 n[C]=q n[k]=u u=-378782-(-378782)q={}t=o<r r=O-o end else if G<9852199-(-127435)then C=l(-247591-(-199947))j=Z[C]G=5843927-281978 Y=j else G=Z[l(91885+-139514)]Y={}end end end else if G<289808+10687762 then if G<10508887-(-391664)then if G<-935750+11457741 then if G<10901047-670017 then G=b G=5149761-(-867645)Y=T else f=-43127-(-43180)V=n[c[-299147-(-299149)]]F=V*f V=68929+3546830895410 Y=F+V V=-104017+104018 F=35184373124323-1035491 G=Y%F n[c[-639603-(-639605)]]=G G=7563199-621760 F=n[c[451625+-451622]]Y=F~=V end else y=l(703437-751097)G=Z[y]y=l(-788786+741124)Z[y]=G G=4288687-(-900767)end else if G<-562580+11535339 then M=852261+-852260 b=G W=d[M]M=false L=W==M T=L G=L and 7206163-(-339899)or-256684+10462476 else f=8862315-27484 V=l(-133075-(-85419))Y=16813441-494651 F=V^f G=Y-F Y=l(-806136-(-758464))F=G G=Y/F Y={G}G=Z[l(565211-612865)]end end else if G<10267811-(-833006)then if G<-129833+11219491 then S=Y E=l(500962+-548635)Y=Z[E]E=l(-156487+108830)q=l(57875+-105544)G=Y[E]E=v()n[E]=G Y=Z[q]q=l(-60275-(-12630))G=Y[q]k=l(-115611+67942)q=G u=Z[k]C=G j=u G=u and 2366312-398541 or 14828813-266890 else Y={V}G=Z[l(526720+-574387)]end else if G<-733921+11882395 then G=true G=G and 891837+-39529 or 435543+15841192 else r=r+o O=r<=y x=not t O=x and O x=r>=y x=t and x O=x or O x=16600421-349709 G=O and x O=8711765-609175 G=G or O end end end end else if G<725665+12678109 then if G<-786457+13339633 then if G<13248214-1008179 then if G<590265+10990154 then if G<12067315-700040 then r=#H y=-853072-(-853072)O=r==y G=O and-286569-(-373236)or 880157-574051 else G=J(13436503-1006485,{h})K={G()}G=Z[l(862345+-909981)]Y={R(K)}end else S=n[g]Y=S G=11187240-195941 end else if G<490956+12007936 then G=-17033+11140999 else q=C z=l(-1042675-(-995020))K=Z[z]z=l(-870763-(-823089))I=K[z]K=I(F,q)I=n[c[-930205+930211]]z=I()r=K+z z=912842-912841 O=r+S r=-480778-(-481034)H=O%r r=f[V]q=nil S=H G=4903854-(-569169)K=S+z I=h[K]O=r..I f[V]=O end end else if G<13349794-296378 then if G<-783799+13784264 then S=nil G=524106+10572901 h=nil E=nil else G={}n[c[-671532+671534]]=G Y=n[c[-910847+910850]]h=Y g=35184372558776-469944 E=510580+-510325 Y=V%g n[c[-28517-(-28521)]]=Y q=l(-270854-(-223199))S=V%E E=-283863+283865 G=5638908-165885 g=S+E n[c[-133971+133976]]=g E=Z[q]q=l(334093-381761)S=E[q]C=65308-65307 E=S(F)S=l(556687+-604319)j=E f[V]=S S=304219+-304176 q=-562578+562579 u=C C=-1027054-(-1027054)k=u<C C=q-u end else if G<13085760-(-35602)then q=l(798312-845940)Y=l(697054+-744720)G=Z[Y]F=n[c[-1011291+1011295]]h=l(-787377-(-739731))j=J(392800+10579982,{})f=Z[h]E=Z[q]q={E(j)}S={R(q)}E=731816-731814 g=S[E]h=f(g)f=l(234033-281666)V=F(h,f)F={V()}Y=G(R(F))V=n[c[766819-766814]]F=Y Y=V G=V and 3745628-(-525291)or 6047016-957991 else F=l(-243527+195876)f=-491197+491197 G=Z[F]V=n[c[-105364-(-105372)]]F=G(V,f)G=9095947-(-478592)end end end else if G<-316372+14808485 then if G<-950713+15145749 then if G<13398397-(-374515)then if G<-432509+13999349 then z=l(952724+-1000370)G=Z[z]o=l(-402112+354450)y=Z[o]z=G(y)G=l(-541890-(-494230))Z[G]=z G=892329+4297125 else G=-173861+1284437 end else G=true G=12110316-740635 end else if G<91261+14193512 then Y=7853609-347768 f=13335393-522253 V=l(-51210+3546)F=V^f G=Y-F F=G Y=l(-147150-(-99487))G=Y/F Y={G}G=Z[l(1035693+-1083335)]else K=n[V]I=K G=K and 27067+4448219 or 7940858-(-223940)end end else if G<15404804-(-870087)then if G<-667954+15915426 then Y=j G=C G=j and 866353+4695596 or-554065+10374263 else O=r x=O H[O]=x O=nil G=123868+11029364 end else if G<-557249+16987071 then Y={}G=Z[l(1038349+-1085989)]else G=n[c[41564-41563]]V=f q=1037138+-1037138 j=103346+-103091 E=G(q,j)G=-376596+2038655 F[V]=E V=nil end end end end end end end G=#a return R(Y)end,{}return(g(-654651+5382854,{}))(R(Y))end)(getfenv and getfenv()or _ENV,unpack or table[l(172967+-220611)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+- ============================================================
+--  VividCheats GUI  ?  Easy Builder Edition
+-- ============================================================
+--
+--  +------------------------------------------------------+
+--  ¦              HOW TO ADD NEW STUFF                    ¦
+--  ¦------------------------------------------------------¦
+--  ¦                                                      ¦
+--  ¦  1. Scroll to "YOUR TABS & OPTIONS GO HERE"          ¦
+--  ¦                                                      ¦
+--  ¦  2. Make a tab:                                      ¦
+--  ¦       local myTab = GUI:Tab("Tab Name")              ¦
+--  ¦                                                      ¦
+--  ¦  3. Add options to it:                               ¦
+--  ¦       myTab:Label("Section Title")                   ¦
+--  ¦       myTab:Toggle("Feature Name", false, callback)  ¦
+--  ¦       myTab:Slider("Speed", 1, 100, 16, callback)    ¦
+--  ¦       myTab:Input("Label", "placeholder", callback)  ¦
+--  ¦       myTab:Button("Click Me", callback)             ¦
+--  ¦       myTab:Dropdown("Pick One",                     ¦
+--  ¦           {"Option A","Option B"}, callback)         ¦
+--  ¦                                                      ¦
+--  ¦  That's it. Nothing else to touch.                   ¦
+--  +------------------------------------------------------+
+--
+-- ============================================================
+
+-- ============================================================
+--  SERVICES
+-- ============================================================
+local Players          = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local RunService       = game:GetService("RunService")
+local TweenService     = game:GetService("TweenService")
+local Workspace        = game:GetService("Workspace")
+local VirtualUser      = game:GetService("VirtualUser")
+
+local LocalPlayer = Players.LocalPlayer
+local Character   = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local Camera      = Workspace.CurrentCamera
+local Mouse       = LocalPlayer:GetMouse()
+
+-- ============================================================
+--  THEME  (edit colours here)
+-- ============================================================
+local Theme = {
+	MainBG     = Color3.fromRGB(26,  51,  77),
+	TabBG      = Color3.fromRGB(26,  51,  77),
+	SectionBG  = Color3.fromRGB(18,  36,  56),
+	Accent     = Color3.fromRGB(0,  170, 127),
+	BtnText    = Color3.fromRGB(255, 255, 255),
+	LabelText  = Color3.fromRGB(200, 220, 255),
+	ToggleON   = Color3.fromRGB(0,  200, 140),
+	ToggleOFF  = Color3.fromRGB(80,  80,  80),
+	SliderFill = Color3.fromRGB(0,  170, 127),
+	InputBG    = Color3.fromRGB(14,  28,  45),
+	SettingsBG = Color3.fromRGB(20,  40,  62),
+	ButtonBG   = Color3.fromRGB(0,  140, 100),
+	DropBG     = Color3.fromRGB(14,  28,  45),
+	TitleColor = Color3.fromRGB(0,  170, 127), -- custom title
+}
+
+local defaultTabName = "Main" --you can replace this to Self,PVP.. any Tab you make/have
+
+-- live theming registry
+local themedObjects = {}
+local function reg(inst, prop, key)
+	table.insert(themedObjects, {inst=inst, prop=prop, key=key})
+end
+local function applyTheme()
+	for _, t in ipairs(themedObjects) do
+		t.inst[t.prop] = Theme[t.key]
+	end
+end
+
+-- ============================================================
+--  ROOT GUI
+-- ============================================================
+local ScreenGui = Instance.new("ScreenGui")
+local rng = Random.new()
+
+local function randomUnicodeChar()
+	local ranges = {
+		{0x0030, 0x0039}, -- 0-9
+		{0x0041, 0x005A}, -- A-Z
+		{0x0061, 0x007A}, -- a-z
+		{0x0370, 0x03FF}, -- Greek
+		{0x0400, 0x04FF}, -- Cyrillic
+		{0x0600, 0x06FF}, -- Arabic
+	}
+
+	local r = ranges[rng:NextInteger(1, #ranges)]
+	local codepoint = rng:NextInteger(r[1], r[2])
+	return utf8.char(codepoint)
+end
+
+local function generateId(len)
+	local t = table.create(len)
+	for i = 1, len do
+		t[i] = randomUnicodeChar()
+	end
+	return table.concat(t)
+end
+
+
+ScreenGui.Name = generateId(24) -- generated ScreenGui Name UI NAME
+ScreenGui.ZIndexBehavior  = Enum.ZIndexBehavior.Sibling
+ScreenGui.ResetOnSpawn    = false
+ScreenGui.Parent          = LocalPlayer:WaitForChild("PlayerGui")
+
+local MainFrame = Instance.new("Frame")
+MainFrame.BackgroundColor3       = Theme.MainBG
+MainFrame.BackgroundTransparency = 0.15
+MainFrame.BorderSizePixel        = 0
+MainFrame.Position               = UDim2.new(0.2, 0, 0.25, 0)
+MainFrame.Size                   = UDim2.new(0, 680, 0, 420)
+MainFrame.Parent                 = ScreenGui
+Instance.new("UICorner", MainFrame).CornerRadius = UDim.new(0, 8)
+local MFStroke = Instance.new("UIStroke", MainFrame)
+MFStroke.Color = Theme.Accent; MFStroke.Thickness = 2; MFStroke.Transparency = 0.4
+reg(MainFrame, "BackgroundColor3", "MainBG")
+table.insert(themedObjects, {inst=MFStroke, prop="Color", key="Accent"})
+
+-- drag
+do
+	local dragging, dragStart, startPos
+	MainFrame.InputBegan:Connect(function(i)
+		if i.UserInputType == Enum.UserInputType.MouseButton1
+			or i.UserInputType == Enum.UserInputType.Touch then
+			dragging = true; dragStart = i.Position; startPos = MainFrame.Position
+		end
+	end)
+	UserInputService.InputChanged:Connect(function(i)
+		if dragging and (i.UserInputType == Enum.UserInputType.MouseMovement
+			or i.UserInputType == Enum.UserInputType.Touch) then
+			local d = i.Position - dragStart
+			MainFrame.Position = UDim2.new(
+				startPos.X.Scale, startPos.X.Offset + d.X,
+				startPos.Y.Scale, startPos.Y.Offset + d.Y)
+		end
+	end)
+	UserInputService.InputEnded:Connect(function(i)
+		if i.UserInputType == Enum.UserInputType.MouseButton1
+			or i.UserInputType == Enum.UserInputType.Touch then dragging = false end
+	end)
+end
+
+-- title VividCheats
+local TitleLabel = Instance.new("TextLabel")
+TitleLabel.Size = UDim2.new(0, 200, 0, 36)
+TitleLabel.Position = UDim2.new(0, 10, 0, 0)
+TitleLabel.BackgroundTransparency = 1
+
+
+TitleLabel.Text = "VividCheats©"
+
+
+local RunService = game:GetService("RunService")
+
+local gradient = Instance.new("UIGradient")
+gradient.Rotation = 0
+gradient.Parent = TitleLabel
+
+
+
+local function themeShift(base, offset)
+	local h, s, v = base:ToHSV()
+	return Color3.fromHSV((h + offset) % 1, s, v)
+end
+
+RunService.RenderStepped:Connect(function()
+	local t = os.clock() * 0.3
+
+	gradient.Color = ColorSequence.new({
+		ColorSequenceKeypoint.new(0, themeShift(Theme.TitleColor, t)),
+		ColorSequenceKeypoint.new(0.25, themeShift(Theme.TitleColor, t + 0.25)),
+		ColorSequenceKeypoint.new(0.5, themeShift(Theme.TitleColor, t + 0.5)),
+		ColorSequenceKeypoint.new(0.75, themeShift(Theme.TitleColor, t + 0.75)),
+		ColorSequenceKeypoint.new(1, themeShift(Theme.TitleColor, t + 1)),
+	})
+
+	gradient.Rotation = (t * 180) % 360
+end)
+
+TitleLabel.TextColor3 = Theme.TitleColor
+TitleLabel.Font = Enum.Font.GrenzeGotisch
+TitleLabel.TextSize = 25
+TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+TitleLabel.Parent = MainFrame
+
+reg(TitleLabel, "TextColor3", "TitleColor")
+
+-- top buttons helper
+local function makeTopButton(text, xOffset)
+	local btn = Instance.new("TextButton")
+	btn.Size = UDim2.new(0, 36, 0, 28)
+	btn.Position = UDim2.new(1, -xOffset, 0, 4)
+	btn.BackgroundColor3 = Theme.Accent
+	btn.BackgroundTransparency = 0.15
+	btn.BorderSizePixel = 0
+	btn.Text = text
+	btn.TextColor3 = Theme.BtnText
+	btn.Font = Enum.Font.GothamBold
+	btn.TextSize = 14
+	btn.TextScaled = true
+	btn.Parent = MainFrame
+	Instance.new("UICorner", btn).CornerRadius = UDim.new(1, 0)
+	local s = Instance.new("UIStroke", btn)
+	s.Color = Theme.Accent; s.Thickness = 1.5; s.Transparency = 0.5
+	reg(btn, "BackgroundColor3", "Accent"); reg(btn, "TextColor3", "BtnText")
+	table.insert(themedObjects, {inst=s, prop="Color", key="Accent"})
+	return btn
+end
+
+local ExitBtn     = makeTopButton("X",  44)
+local MinBtn      = makeTopButton("-",  84)
+local SettingsBtn = makeTopButton("?", 126)
+
+-- tab bar
+local TabBar = Instance.new("Frame")
+TabBar.BackgroundColor3 = Theme.TabBG
+TabBar.BackgroundTransparency = 0.3
+TabBar.BorderSizePixel = 0
+TabBar.Position = UDim2.new(0, 8, 0, 40)
+TabBar.Size = UDim2.new(1, -16, 0, 44)
+TabBar.Parent = MainFrame
+Instance.new("UICorner", TabBar).CornerRadius = UDim.new(0, 6)
+local tbl = Instance.new("UIListLayout", TabBar)
+tbl.FillDirection = Enum.FillDirection.Horizontal
+tbl.Padding = UDim.new(0, 6)
+tbl.VerticalAlignment = Enum.VerticalAlignment.Center
+Instance.new("UIPadding", TabBar).PaddingLeft = UDim.new(0, 8)
+reg(TabBar, "BackgroundColor3", "TabBG")
+
+-- content area
+local ContentArea = Instance.new("Frame")
+ContentArea.BackgroundColor3 = Theme.SectionBG
+ContentArea.BackgroundTransparency = 0.1
+ContentArea.BorderSizePixel = 0
+ContentArea.Position = UDim2.new(0, 8, 0, 92)
+ContentArea.Size = UDim2.new(1, -16, 1, -100)
+ContentArea.ClipsDescendants = true
+ContentArea.Parent = MainFrame
+Instance.new("UICorner", ContentArea).CornerRadius = UDim.new(0, 6)
+reg(ContentArea, "BackgroundColor3", "SectionBG")
+
+-- ============================================================
+--  INTERNAL WIDGET BUILDERS
+--  (these are used by the GUI builder below ? don't call directly)
+-- ============================================================
+local function _makeScrollSection()
+	local sf = Instance.new("ScrollingFrame")
+	sf.BackgroundTransparency = 1
+	sf.BorderSizePixel = 0
+	sf.Size = UDim2.new(1, 0, 1, 0)
+	sf.CanvasSize = UDim2.new(0, 0, 0, 0)
+	sf.AutomaticCanvasSize = Enum.AutomaticSize.Y
+	sf.ScrollBarThickness = 4
+	sf.ScrollBarImageColor3 = Theme.Accent
+	sf.Visible = false
+	sf.Parent = ContentArea
+	local list = Instance.new("UIListLayout", sf)
+	list.Padding = UDim.new(0, 6)
+	list.SortOrder = Enum.SortOrder.LayoutOrder
+	local pad = Instance.new("UIPadding", sf)
+	pad.PaddingLeft = UDim.new(0, 10)
+	pad.PaddingTop  = UDim.new(0, 6)
+	table.insert(themedObjects, {inst=sf, prop="ScrollBarImageColor3", key="Accent"})
+	return sf
+end
+
+local function _label(section, text)
+	local lbl = Instance.new("TextLabel")
+	lbl.BackgroundTransparency = 1
+	lbl.Size = UDim2.new(1, -14, 0, 22)
+	lbl.Text = "-- " .. text .. " --"
+	lbl.TextColor3 = Theme.Accent
+	lbl.Font = Enum.Font.GothamBold
+	lbl.TextSize = 12
+	lbl.TextXAlignment = Enum.TextXAlignment.Left
+	lbl.Parent = section
+	reg(lbl, "TextColor3", "Accent")
+	return lbl
+end
+
+local function _toggle(section, label, default, callback)
+	local state = default == true
+	local row = Instance.new("Frame")
+	row.BackgroundTransparency = 1
+	row.Size = UDim2.new(1, -14, 0, 38)
+	row.Parent = section
+
+	local lbl = Instance.new("TextLabel", row)
+	lbl.BackgroundTransparency = 1
+	lbl.Size = UDim2.new(0.75, 0, 1, 0)
+	lbl.Text = label
+	lbl.TextColor3 = Theme.LabelText
+	lbl.Font = Enum.Font.Gotham
+	lbl.TextSize = 13
+	lbl.TextXAlignment = Enum.TextXAlignment.Left
+	reg(lbl, "TextColor3", "LabelText")
+
+	local track = Instance.new("Frame", row)
+	track.Size = UDim2.new(0, 46, 0, 22)
+	track.Position = UDim2.new(1, -50, 0.5, -11)
+	track.BackgroundColor3 = state and Theme.ToggleON or Theme.ToggleOFF
+	track.BorderSizePixel = 0
+	Instance.new("UICorner", track).CornerRadius = UDim.new(1, 0)
+
+	local knob = Instance.new("Frame", track)
+	knob.Size = UDim2.new(0, 16, 0, 16)
+	knob.Position = state and UDim2.new(1,-19,0.5,-8) or UDim2.new(0,3,0.5,-8)
+	knob.BackgroundColor3 = Color3.fromRGB(255,255,255)
+	knob.BorderSizePixel = 0
+	Instance.new("UICorner", knob).CornerRadius = UDim.new(1, 0)
+
+	local btn = Instance.new("TextButton", row)
+	btn.Size = UDim2.new(1,0,1,0)
+	btn.BackgroundTransparency = 1
+	btn.Text = ""
+
+	-- returns a set() function so code can change state programmatically
+	local function set(v)
+		state = v
+		TweenService:Create(track, TweenInfo.new(0.15), {
+			BackgroundColor3 = state and Theme.ToggleON or Theme.ToggleOFF
+		}):Play()
+		TweenService:Create(knob, TweenInfo.new(0.15), {
+			Position = state and UDim2.new(1,-19,0.5,-8) or UDim2.new(0,3,0.5,-8)
+		}):Play()
+		if callback then callback(state) end
+	end
+
+	btn.MouseButton1Click:Connect(function() set(not state) end)
+	return row, set
+end
+local function _slider(section, label, minVal, maxVal, default, callback)
+	local UserInputService = game:GetService("UserInputService")
+
+	local value = default or minVal
+
+	local row = Instance.new("Frame")
+	row.BackgroundTransparency = 1
+	row.Size = UDim2.new(1, -14, 0, 52)
+	row.Parent = section
+
+	local lbl = Instance.new("TextLabel", row)
+	lbl.BackgroundTransparency = 1
+	lbl.Size = UDim2.new(1, 0, 0, 18)
+	lbl.TextColor3 = Theme.LabelText
+	lbl.Font = Enum.Font.Gotham
+	lbl.TextSize = 13
+	lbl.TextXAlignment = Enum.TextXAlignment.Left
+	reg(lbl, "TextColor3", "LabelText")
+
+	local function setLabelText()
+		lbl.Text = label .. ": " .. tostring(value)
+	end
+
+	setLabelText()
+
+	-- INPUT MODE (INLINE EDIT)
+	local editing = false
+
+	lbl.InputBegan:Connect(function(input)
+		if input.UserInputType ~= Enum.UserInputType.MouseButton1 then return end
+		if editing then return end
+
+		editing = true
+
+		local oldText = lbl.Text
+
+		local box = Instance.new("TextBox")
+		box.Size = lbl.Size
+		box.Position = lbl.Position
+		box.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+		box.TextColor3 = Theme.LabelText
+		box.Font = Enum.Font.Gotham
+		box.TextSize = 13
+		box.ClearTextOnFocus = false
+		box.Text = tostring(value)
+		box.Parent = lbl.Parent
+		box.ZIndex = lbl.ZIndex + 1
+
+		lbl.Visible = false
+		box:CaptureFocus()
+
+		local function commit()
+			local num = tonumber(box.Text)
+			if num then
+				value = math.clamp(math.round(num), minVal, maxVal)
+			end
+
+			box:Destroy()
+			lbl.Visible = true
+			editing = false
+
+			setLabelText()
+			if callback then
+				callback(value)
+			end
+		end
+
+		box.FocusLost:Connect(commit)
+	end)
+
+	local track = Instance.new("Frame", row)
+	track.Size = UDim2.new(1, -4, 0, 8)
+	track.Position = UDim2.new(0, 0, 0, 28)
+	track.BackgroundColor3 = Color3.fromRGB(50, 70, 90)
+	track.BorderSizePixel = 0
+	Instance.new("UICorner", track).CornerRadius = UDim.new(1, 0)
+
+	local rel0 = (value - minVal) / (maxVal - minVal)
+
+	local fill = Instance.new("Frame", track)
+	fill.Size = UDim2.new(rel0, 0, 1, 0)
+	fill.BackgroundColor3 = Theme.SliderFill
+	fill.BorderSizePixel = 0
+	Instance.new("UICorner", fill).CornerRadius = UDim.new(1, 0)
+
+	local knob = Instance.new("Frame", track)
+	knob.Size = UDim2.new(0, 14, 0, 14)
+	knob.Position = UDim2.new(rel0, -7, 0.5, -7)
+	knob.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	knob.BorderSizePixel = 0
+	Instance.new("UICorner", knob).CornerRadius = UDim.new(1, 0)
+
+	local dragging = false
+
+	local hit = Instance.new("TextButton", row)
+	hit.Size = UDim2.new(1, 0, 0, 24)
+	hit.Position = UDim2.new(0, 0, 0, 22)
+	hit.BackgroundTransparency = 1
+	hit.Text = ""
+
+	local function apply(v)
+		v = math.clamp(v, minVal, maxVal)
+		value = math.round(v)
+
+		local rel = (value - minVal) / (maxVal - minVal)
+
+		fill.Size = UDim2.new(rel, 0, 1, 0)
+		knob.Position = UDim2.new(rel, -7, 0.5, -7)
+
+		setLabelText()
+
+		if callback then
+			callback(value)
+		end
+	end
+
+	local function updateFromX(screenX)
+		local absX = track.AbsolutePosition.X
+		local width = track.AbsoluteSize.X
+		if width <= 0 then return end
+
+		local rel = math.clamp((screenX - absX) / width, 0, 1)
+		local v = minVal + rel * (maxVal - minVal)
+
+		apply(v)
+	end
+
+	hit.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1
+			or input.UserInputType == Enum.UserInputType.Touch then
+
+			dragging = true
+			updateFromX(input.Position.X)
+		end
+	end)
+
+	UserInputService.InputChanged:Connect(function(input)
+		if not dragging then return end
+
+		if input.UserInputType == Enum.UserInputType.MouseMovement
+			or input.UserInputType == Enum.UserInputType.Touch then
+
+			updateFromX(input.Position.X)
+		end
+	end)
+
+	UserInputService.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1
+			or input.UserInputType == Enum.UserInputType.Touch then
+
+			dragging = false
+		end
+	end)
+
+	return row
+end
+local function _input(section, label, placeholder, callback)
+	local row = Instance.new("Frame")
+	row.BackgroundTransparency = 1
+	row.Size = UDim2.new(1,-14,0,56)
+	row.Parent = section
+
+	local lbl = Instance.new("TextLabel", row)
+	lbl.BackgroundTransparency = 1
+	lbl.Size = UDim2.new(1,0,0,18)
+	lbl.Text = label
+	lbl.TextColor3 = Theme.LabelText
+	lbl.Font = Enum.Font.Gotham
+	lbl.TextSize = 13
+	lbl.TextXAlignment = Enum.TextXAlignment.Left
+	reg(lbl, "TextColor3", "LabelText")
+
+	local box = Instance.new("TextBox", row)
+	box.Size = UDim2.new(1,-4,0,30)
+	box.Position = UDim2.new(0,0,0,20)
+	box.BackgroundColor3 = Theme.InputBG
+	box.BorderSizePixel = 0
+	box.PlaceholderText = placeholder or ""
+	box.PlaceholderColor3 = Color3.fromRGB(100,130,160)
+	box.Text = ""
+	box.TextColor3 = Theme.LabelText
+	box.Font = Enum.Font.Gotham
+	box.TextSize = 13
+	box.ClearTextOnFocus = false
+
+	Instance.new("UICorner", box).CornerRadius = UDim.new(0, 4)
+
+	local bs = Instance.new("UIStroke", box)
+	bs.Color = Theme.Accent
+	bs.Thickness = 1
+	bs.Transparency = 0.6
+
+	reg(box, "BackgroundColor3", "InputBG")
+	reg(box, "TextColor3", "LabelText")
+	table.insert(themedObjects, {inst=bs, prop="Color", key="Accent"})
+
+	local function submit()
+		if not callback then return end
+
+		local text = (box.Text or ""):gsub("^%s+", ""):gsub("%s+$", "")
+
+		if text == "" then
+			box.Text = ""
+			return
+		end
+
+		-- optional auto number conversion (safe)
+		local num = tonumber(text)
+		if num then
+			callback(num)
+		else
+			callback(text)
+		end
+	end
+
+	box.FocusLost:Connect(function(enterPressed)
+		submit()
+	end)
+
+	box.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.Keyboard then
+			if input.KeyCode == Enum.KeyCode.Return then
+				submit()
+			end
+		end
+	end)
+
+	return row
+end
+
+local function _button(section, label, callback)
+	local row = Instance.new("Frame")
+	row.BackgroundTransparency = 1
+	row.Size = UDim2.new(1,-14,0,36)
+	row.Parent = section
+
+	local btn = Instance.new("TextButton", row)
+	btn.Size = UDim2.new(1,0,0,28)
+	btn.Position = UDim2.new(0,0,0,4)
+	btn.BackgroundColor3 = Theme.ButtonBG
+	btn.BorderSizePixel = 0
+	btn.Text = label
+	btn.TextColor3 = Theme.BtnText
+	btn.Font = Enum.Font.GothamBold
+	btn.TextSize = 13
+	Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 5)
+	reg(btn, "BackgroundColor3", "ButtonBG"); reg(btn, "TextColor3", "BtnText")
+
+	btn.MouseButton1Click:Connect(function()
+		TweenService:Create(btn, TweenInfo.new(0.08), {
+			BackgroundTransparency = 0.4
+		}):Play()
+		task.delay(0.12, function()
+			TweenService:Create(btn, TweenInfo.new(0.08), {
+				BackgroundTransparency = 0
+			}):Play()
+		end)
+		if callback then callback() end
+	end)
+	return row
+end
+
+local function _dropdown(section, label, options, callback)
+	local selected = options[1]
+	local open = false
+
+	local wrapper = Instance.new("Frame")
+	wrapper.BackgroundTransparency = 1
+	wrapper.Size = UDim2.new(1,-14,0,54)
+	wrapper.ClipsDescendants = false
+	wrapper.Parent = section
+
+	local lbl = Instance.new("TextLabel", wrapper)
+	lbl.BackgroundTransparency = 1
+	lbl.Size = UDim2.new(1,0,0,18)
+	lbl.Text = label
+	lbl.TextColor3 = Theme.LabelText
+	lbl.Font = Enum.Font.Gotham
+	lbl.TextSize = 13
+	lbl.TextXAlignment = Enum.TextXAlignment.Left
+	reg(lbl, "TextColor3", "LabelText")
+
+	local header = Instance.new("TextButton", wrapper)
+	header.Size = UDim2.new(1,-4,0,28)
+	header.Position = UDim2.new(0,0,0,20)
+	header.BackgroundColor3 = Theme.DropBG
+	header.BorderSizePixel = 0
+	header.Text = "  " .. selected .. "  ?"
+	header.TextColor3 = Theme.LabelText
+	header.Font = Enum.Font.Gotham
+	header.TextSize = 13
+	header.TextXAlignment = Enum.TextXAlignment.Left
+	Instance.new("UICorner", header).CornerRadius = UDim.new(0, 4)
+	local hs = Instance.new("UIStroke", header)
+	hs.Color = Theme.Accent; hs.Thickness = 1; hs.Transparency = 0.6
+	reg(header, "BackgroundColor3", "DropBG"); reg(header, "TextColor3", "LabelText")
+	table.insert(themedObjects, {inst=hs, prop="Color", key="Accent"})
+
+	local dropList = Instance.new("Frame", wrapper)
+	dropList.Position = UDim2.new(0,0,0,50)
+	dropList.Size = UDim2.new(1,-4,0,#options*26+4)
+	dropList.BackgroundColor3 = Theme.DropBG
+	dropList.BorderSizePixel = 0
+	dropList.ZIndex = 50
+	dropList.Visible = false
+	Instance.new("UICorner", dropList).CornerRadius = UDim.new(0, 4)
+	local ds = Instance.new("UIStroke", dropList)
+	ds.Color = Theme.Accent; ds.Thickness = 1; ds.Transparency = 0.5
+	reg(dropList, "BackgroundColor3", "DropBG")
+	table.insert(themedObjects, {inst=ds, prop="Color", key="Accent"})
+
+	local dlist = Instance.new("UIListLayout", dropList)
+	dlist.Padding = UDim.new(0, 0)
+	dlist.SortOrder = Enum.SortOrder.LayoutOrder
+	Instance.new("UIPadding", dropList).PaddingTop = UDim.new(0, 2)
+
+	for _, opt in ipairs(options) do
+		local item = Instance.new("TextButton", dropList)
+		item.Size = UDim2.new(1,0,0,24)
+		item.BackgroundTransparency = 1
+		item.Text = "  " .. opt
+		item.TextColor3 = Theme.LabelText
+		item.Font = Enum.Font.Gotham
+		item.TextSize = 12
+		item.TextXAlignment = Enum.TextXAlignment.Left
+		item.ZIndex = 51
+		reg(item, "TextColor3", "LabelText")
+		item.MouseButton1Click:Connect(function()
+			selected = opt
+			header.Text = "  " .. selected .. "  ?"
+			dropList.Visible = false
+			open = false
+			if callback then callback(selected) end
+		end)
+		item.MouseEnter:Connect(function()
+			item.BackgroundTransparency = 0.7
+			item.BackgroundColor3 = Theme.Accent
+		end)
+		item.MouseLeave:Connect(function()
+			item.BackgroundTransparency = 1
+		end)
+	end
+
+	header.MouseButton1Click:Connect(function()
+		open = not open
+		dropList.Visible = open
+		wrapper.Size = UDim2.new(1,-14, 0, open and (54 + #options*26+4) or 54)
+	end)
+
+	return wrapper
+end
+
+-- ============================================================
+--  TAB SYSTEM
+-- ============================================================
+local allTabs = {}
+local activeTab = nil
+
+local function selectTab(tabData)
+	for _, t in ipairs(allTabs) do
+		t.section.Visible = false
+		t.btn.BackgroundTransparency = 0.6
+	end
+	tabData.section.Visible = true
+	tabData.btn.BackgroundTransparency = 0.0
+	activeTab = tabData
+end
+
+-- ============================================================
+--  GUI BUILDER  ?  this is what you call in your features
+-- ============================================================
+local GUI = {}
+
+function GUI:Tab(name)
+	-- make the tab button
+	local btn = Instance.new("TextButton")
+	btn.Size = UDim2.new(0, 80, 0, 30)
+	btn.BackgroundColor3 = Theme.Accent
+	btn.BackgroundTransparency = 0.6
+	btn.BorderSizePixel = 0
+	btn.Text = name
+	btn.TextColor3 = Theme.BtnText
+	btn.Font = Enum.Font.GothamBold
+	btn.TextSize = 13
+	btn.AutoButtonColor = false
+	btn.Parent = TabBar
+	Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 5)
+	reg(btn, "BackgroundColor3", "Accent"); reg(btn, "TextColor3", "BtnText")
+
+	local section = _makeScrollSection()
+
+	local tabData = {btn=btn, section=section}
+	table.insert(allTabs, tabData)
+	btn.MouseButton1Click:Connect(function() selectTab(tabData) end)
+
+	-- if first tab, select it
+	task.defer(function()
+		if name == defaultTabName then
+			selectTab(tabData)
+		end
+	end)
+
+	-- -- Tab object ------------------------------------------
+	local Tab = {}
+
+	-- myTab:Label("Section Title")
+	function Tab:Label(text)
+		_label(section, text)
+	end
+
+	-- myTab:Toggle("Name", defaultBool, function(on) end)
+	-- returns a setter: setter(true/false) to change programmatically
+	function Tab:Toggle(label, default, callback)
+		local _, setter = _toggle(section, label, default, callback)
+		return setter
+	end
+
+	-- myTab:Slider("Name", min, max, default, function(val) end)
+	function Tab:Slider(label, minVal, maxVal, default, callback)
+		_slider(section, label, minVal, maxVal, default, callback)
+	end
+
+	-- myTab:Input("Label", "placeholder text", function(text) end)
+	function Tab:Input(label, placeholder, callback)
+		_input(section, label, placeholder, callback)
+	end
+
+	-- myTab:Button("Click Me", function() end)
+	function Tab:Button(label, callback)
+		_button(section, label, callback)
+	end
+
+	-- myTab:Dropdown("Pick one", {"A","B","C"}, function(choice) end)
+	function Tab:Dropdown(label, options, callback)
+		_dropdown(section, label, options, callback)
+	end
+
+	return Tab
+end
+
+-- ============================================================
+--  HELPERS
+-- ============================================================
+local function getHumanoid()
+	local c = LocalPlayer.Character
+	return c and c:FindFirstChildOfClass("Humanoid")
+end
+local function getRootPart()
+	local c = LocalPlayer.Character
+	return c and c:FindFirstChild("HumanoidRootPart")
+end
+
+-- persist stats across respawns
+local pending = {WalkSpeed=16, JumpPower=50, AutoJump=false}
+LocalPlayer.CharacterAdded:Connect(function(c)
+	Character = c
+	local h = c:WaitForChild("Humanoid")
+	task.wait()
+	h.WalkSpeed       = pending.WalkSpeed
+	h.AutoJumpEnabled = pending.AutoJump
+	if h.UseJumpPower then h.JumpPower = pending.JumpPower
+	else h.JumpHeight = pending.JumpPower * 0.225 end
+end)
+
+-- ============================================================
+--  STATE
+-- ============================================================
+local SelfState = {
+	InfJump    = false,
+	AutoJump   = false,
+	NoClip     = false,
+	AntiAFK    = false,
+	AntiKick   = false,
+	Flying     = false,
+	FlySpeed   = 50,
+	AntiVoid   = false,
+	FlingTouch = false,
+
+}
+
+local PVPState = {
+	HitboxExpand = false,
+	HitboxSize   = 4,
+	Reach        = false,
+	ReachDist    = 15,
+}
+
+-- ============================================================
+--  EXTERNAL SCRIPT LOADER  (for loadstring toggles)
+-- ============================================================
+local ActiveScripts = {}
+
+local function runExternal(key, url)
+	if ActiveScripts[key] and ActiveScripts[key].running then return end
+	ActiveScripts[key] = {running=true, threads={}}
+	task.spawn(function()
+		local ok, result = pcall(function()
+			return loadstring(game:HttpGet(url))()
+		end)
+		if not ok then ActiveScripts[key].running = false; return end
+		if type(result) == "function" then
+			ActiveScripts[key].cleanup = result
+		end
+	end)
+end
+
+local function stopExternal(key)
+	local entry = ActiveScripts[key]
+	if not entry then return end
+	entry.running = false
+	if type(entry.cleanup) == "function" then pcall(entry.cleanup) end
+	if entry.threads then
+		for _, t in ipairs(entry.threads) do pcall(function() t:Disconnect() end) end
+	end
+	ActiveScripts[key] = nil
+end
+
+-- ============================================================
+-- +----------------------------------------------------------+
+-- ¦          YOUR TABS & OPTIONS GO HERE                     ¦
+-- ¦                                                          ¦
+-- ¦  Pattern:                                                ¦
+-- ¦    local myTab = GUI:Tab("Name")                         ¦
+-- ¦    myTab:Label("Section")                                ¦
+-- ¦    myTab:Toggle("Feature", false, function(on) end)      ¦
+-- ¦    myTab:Slider("Speed", 1, 100, 16, function(v) end)    ¦
+-- ¦    myTab:Button("Do Thing", function() end)              ¦
+-- ¦    myTab:Dropdown("Mode",{"A","B"},function(v) end)      ¦
+-- +----------------------------------------------------------+
+-- ============================================================
+
+-- -- SELF TAB ------------------------------------------------
+local selfTab = GUI:Tab("Self")
+
+SelfState.ShowAccountAge = false
+local AccountAgeLabel = nil
+selfTab:Toggle("Show Account Age", false, function(on)
+	SelfState.ShowAccountAge = on
+
+	if on then
+		if not AccountAgeLabel then
+			AccountAgeLabel = Instance.new("TextLabel")
+			AccountAgeLabel.BackgroundTransparency = 1
+			AccountAgeLabel.Size = UDim2.new(1, -14, 0, 22)
+			AccountAgeLabel.Position = UDim2.new(0, 300, 0, 20)
+			AccountAgeLabel.TextColor3 = Theme.LabelText
+			AccountAgeLabel.Font = Enum.Font.GothamBold
+			AccountAgeLabel.TextSize = 30
+			AccountAgeLabel.TextXAlignment = Enum.TextXAlignment.Left
+			AccountAgeLabel.Parent = ContentArea
+			reg(AccountAgeLabel, "TextColor3", "LabelText")
+		end
+
+		AccountAgeLabel.Visible = true
+	else
+		if AccountAgeLabel then
+			AccountAgeLabel.Visible = false
+		end
+	end
+end)
+RunService.RenderStepped:Connect(function()
+	if SelfState.ShowAccountAge and AccountAgeLabel then
+		AccountAgeLabel.Text = "Account Age: " .. tostring(LocalPlayer.AccountAge) .. " days"
+	end
+end)
+selfTab:Label("Movement")
+
+selfTab:Toggle("Auto Jump", false, function(on)
+	SelfState.AutoJump = on
+	pending.AutoJump = on
+	local h = getHumanoid()
+	if h then h.AutoJumpEnabled = on end
+end)
+
+selfTab:Toggle("Infinite Jump", false, function(on)
+	SelfState.InfJump = on
+end)
+
+selfTab:Slider("Walk Speed", 1, 100, 16, function(val)
+	pending.WalkSpeed = val
+	local h = getHumanoid()
+	if h then h.WalkSpeed = val end
+end)
+
+selfTab:Slider("Jump Power", 1, 200, 50, function(val)
+	pending.JumpPower = val
+	local h = getHumanoid()
+	if h then
+		if h.UseJumpPower then h.JumpPower = val
+		else h.JumpHeight = val * 0.225 end
+	end
+end)
+
+selfTab:Label("Flying")
+
+selfTab:Toggle("Fly", false, function(on)
+	SelfState.Flying = on
+	if on then _startFly() else _stopFly() end
+end)
+
+selfTab:Slider("Fly Speed", 10, 300, 50, function(val)
+	SelfState.FlySpeed = val
+end)
+
+selfTab:Label("Misc")
+
+
+
+selfTab:Toggle("No Clip", false, function(on)
+	SelfState.NoClip = on
+end)
+
+selfTab:Toggle("Anti Void", false, function(on)
+	SelfState.AntiVoid = on
+end)
+
+selfTab:Label("Protection")
+
+selfTab:Toggle("Anti AFK", false, function(on)
+	SelfState.AntiAFK = on
+end)
+
+selfTab:Toggle("Anti Kick", false, function(on)
+	SelfState.AntiKick = on
+	if on then
+		pcall(function()
+			local mt = getrawmetatable(game)
+			setreadonly(mt, false)
+			local oldNC = mt.__namecall
+			mt.__namecall = newcclosure(function(self, ...)
+				if self == LocalPlayer and getnamecallmethod() == "Kick" then return nil end
+				return oldNC(self, ...)
+			end)
+			setreadonly(mt, true)
+		end)
+	end
+end)
+
+-- -- MAIN TAB ------------------------------------------------
+local mainTab = GUI:Tab("Main")
+
+mainTab:Label("General")
+
+
+local StarterGui = game:GetService("StarterGui")
+
+local devConsoleEnabled = false
+
+mainTab:Toggle("Dev Console (F9)", false, function(on)
+	devConsoleEnabled = on
+
+	pcall(function()
+		StarterGui:SetCore("DevConsoleVisible", on)
+	end)
+end)
+
+
+
+mainTab:Toggle("Fling Other Players(OnTouch)", false, function(on)
+	SelfState.FlingTouch = on
+
+	if on then
+		task.spawn(function()
+			local movel = 0.1
+			local lp = Players.LocalPlayer
+
+			while SelfState.FlingTouch do
+				RunService.Heartbeat:Wait()
+
+				local char = lp.Character
+				local hrp = char and char:FindFirstChild("HumanoidRootPart")
+				if not hrp then continue end
+
+				-- check touch proximity
+				local touching = false
+
+				for _, plr in ipairs(Players:GetPlayers()) do
+					if plr ~= lp then
+						local c = plr.Character
+						local other = c and c:FindFirstChild("HumanoidRootPart")
+
+						if other and (hrp.Position - other.Position).Magnitude < 5 then
+							touching = true
+							break
+						end
+					end
+				end
+
+				if touching then
+					local vel = hrp.Velocity
+
+					hrp.Velocity = vel * 1000000 + Vector3.new(0, 1000000, 0)
+
+					RunService.RenderStepped:Wait()
+
+					if hrp then
+						hrp.Velocity = vel
+					end
+
+					RunService.Stepped:Wait()
+
+					if hrp then
+						hrp.Velocity = vel + Vector3.new(0, movel, 0)
+						movel = movel * -1
+					end
+				end
+			end
+		end)
+	end
+end)
+
+
+
+
+mainTab:Label("Scripts")
+--SAMPLE--how to create a toggle that executes scripts---
+--[[ inside maintab create toggle with name
+mainTab:Toggle("ToggleNAME", false, function(on)
+	if on then
+		runExternal("gamepass", "ScriptSourceLink.lua")
+	else
+		stopExternal("gamepass")
+	end
+end)
+]]
+
+mainTab:Toggle("Gamepass Unlocker Method Attempt To Buy Free", false, function(on)
+	if on then runExternal("gamepass", "https://rawscripts.net/raw/Universal-Script-Gamepass-Product-212343")
+	else stopExternal("gamepass") end
+end)
+
+mainTab:Toggle("Keyless MOIS7 ADMIN+AntiVCBan", false, function(on)
+	if on then runExternal("MOIS7 ADMIN", "https://mois7.xyz/loader")
+	else stopExternal("MOIS7 ADMIN") end
+end)
+
+mainTab:Toggle("Keyless AK Admin -- KEY: AK ADMIN", false, function(on)
+	if on then runExternal("MOIS7 ADMIN", "https://icegod.vercel.app/loader.lua")
+	else stopExternal("Keyless AK Admin") end
+end)
+
+mainTab:Toggle("Dex++", false, function(on)
+	if on then
+		runExternal("Dex++", "https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua")
+	else
+		stopExternal("Dex++")
+	end
+end)
+
+mainTab:Toggle("infYield. Always up to date", false, function(on)
+	if on then
+		runExternal("infYield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")
+	else
+		stopExternal("infYield")
+	end
+end)
+
+mainTab:Toggle("LDS HUB. For Work At Pizza Place By Dued1", false, function(on)
+	if on then
+		runExternal("LDSHUB", "https://api.luarmor.net/files/v3/loaders/49f02b0d8c1f60207c84ae76e12abc1e.lua")
+	else
+		stopExternal("LDSHUB")
+	end
+end)
+
+
+mainTab:Toggle("CH HUB. For Work At Pizza Place By Dued1", false, function(on)
+	if on then
+		runExternal("CHHUB", "https://raw.githubusercontent.com/RobloxHackingProject/CHHub/main/CHHub.lua")
+	else
+		stopExternal("CHHUB")
+	end
+end)
+
+
+
+mainTab:Toggle("EzHub - random op scripts", false, function(on)
+	if on then
+		runExternal("EzHub", "https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua")
+	else
+		stopExternal("EzHub")
+	end
+end)
+
+
+
+
+mainTab:Toggle("WolfHub. Contains collection of scripts", false, function(on)
+	if on then
+		runExternal("WolfHub", "https://raw.githubusercontent.com/Podroka626/Scripts/main/Universal")
+	else
+		stopExternal("WolfHub")
+	end
+end)
+
+mainTab:Toggle("ZeldaHub. For Restaurant tycoon 2 ", false, function(on)
+	if on then
+		runExternal("ZeldaHub", "https://raw.githubusercontent.com/iz037/Zeld-Hub/main/Script/Restaurant%20Tycoon%202.lua")
+	else
+		stopExternal("ZeldaHub")
+	end
+end)
+
+
+
+
+mainTab:Toggle("Octo-Spy. Remote Spy Script. ", false, function(on)
+	if on then
+		runExternal("OctoSpy", "https://raw.githubusercontent.com/InfernusScripts/Octo-Spy/refs/heads/main/Main.lua")
+	else
+		stopExternal("OctoSpy")
+	end
+end)
+
+
+-- -- PVP TAB -------------------------------------------------
+local pvpTab = GUI:Tab("PVP")
+
+--[[ pvpTab SAMPLE
+local pvpTab = GUI:Tab("Combat")
+
+pvpTab:Label("Aim Assist")
+
+pvpTab:Toggle("Aim Assist", false, function(on)
+	PVPState.AimAssist = on
+end)
+]]
+
+PVPState.CustomFOVEnabled = false
+PVPState.CustomFOV = 70
+pvpTab:Label("Camera")
+
+pvpTab:Toggle("Custom FOV", false, function(on)
+	PVPState.CustomFOVEnabled = on
+
+	local cam = Workspace.CurrentCamera
+	if cam then
+		if not on then
+			cam.FieldOfView = 70
+		else
+			cam.FieldOfView = PVPState.CustomFOV
+		end
+	end
+end)
+
+pvpTab:Slider("FOV Value", 50, 100000, 70, function(val)
+	PVPState.CustomFOV = val
+
+	local cam = Workspace.CurrentCamera
+	if cam and PVPState.CustomFOVEnabled then
+		cam.FieldOfView = val
+	end
+end)
+
+RunService.RenderStepped:Connect(function()
+	if PVPState.CustomFOVEnabled then
+		local cam = Workspace.CurrentCamera
+		if cam and cam.FieldOfView ~= PVPState.CustomFOV then
+			cam.FieldOfView = PVPState.CustomFOV
+		end
+	end
+end)
+
+
+pvpTab:Label("Hitbox")
+
+pvpTab:Toggle("Hitbox Expander", false, function(on)
+	PVPState.HitboxExpand = on
+end)
+
+pvpTab:Slider("Hitbox Size", 2, 25, 4, function(val)
+	PVPState.HitboxSize = val
+end)
+
+pvpTab:Label("Reach")
+
+pvpTab:Toggle("Reach", false, function(on)
+	PVPState.Reach = on
+end)
+
+pvpTab:Slider("Reach Distance", 1, 100000, 15, function(val)
+	PVPState.ReachDist = val
+end)
+
+-- -- ADD MORE TABS BELOW THIS LINE ---------------------------
+--
+-- Example:
+--
+--   local myNewTab = GUI:Tab("Visuals")
+--
+--   myNewTab:Label("ESP")
+--   myNewTab:Toggle("Player ESP", false, function(on) end)
+--   myNewTab:Slider("ESP Range", 10, 500, 100, function(val) end)
+--
+--   myNewTab:Label("Misc")
+--   myNewTab:Button("Teleport to Spawn", function()
+--       -- your teleport code here
+--   end)
+--
+--   myNewTab:Dropdown("Team", {"Red","Blue","Auto"}, function(choice)
+--       -- do something with choice
+--   end)
+--
+-- ============================================================
+--  END OF FEATURE DEFINITIONS
+-- ============================================================
+
+-- ============================================================
+--  FLY SYSTEM
+-- ============================================================
+local flyBV, flyBG = nil, nil
+
+function _startFly()
+	local char = LocalPlayer.Character
+	if not char then return end
+	local hrp = char:FindFirstChild("HumanoidRootPart")
+	if not hrp then return end
+	local h = char:FindFirstChildOfClass("Humanoid")
+	if h then h.PlatformStand = true end
+	if flyBV then flyBV:Destroy() end
+	if flyBG then flyBG:Destroy() end
+	flyBV = Instance.new("BodyVelocity")
+	flyBV.Velocity = Vector3.zero
+	flyBV.MaxForce = Vector3.new(1e9,1e9,1e9)
+	flyBV.Parent   = hrp
+	flyBG = Instance.new("BodyGyro")
+	flyBG.MaxTorque = Vector3.new(1e9,1e9,1e9)
+	flyBG.P         = 1e6
+	flyBG.CFrame    = hrp.CFrame
+	flyBG.Parent    = hrp
+end
+
+function _stopFly()
+	if flyBV then flyBV:Destroy(); flyBV = nil end
+	if flyBG then flyBG:Destroy(); flyBG = nil end
+	local char = LocalPlayer.Character
+	if not char then return end
+	local h = char:FindFirstChildOfClass("Humanoid")
+	if h then h.PlatformStand = false end
+end
+
+-- ============================================================
+--  RUNTIME LOOPS
+-- ============================================================
+
+-- auto jump
+RunService.Heartbeat:Connect(function()
+	if not SelfState.AutoJump then return end
+	local h = getHumanoid(); if not h then return end
+	local s = h:GetState()
+	if s == Enum.HumanoidStateType.Running
+		or s == Enum.HumanoidStateType.RunningNoPhysics then
+		h:ChangeState(Enum.HumanoidStateType.Jumping)
+	end
+end)
+
+-- infinite jump
+UserInputService.JumpRequest:Connect(function()
+	if SelfState.InfJump then
+		local h = getHumanoid()
+		if h then h:ChangeState(Enum.HumanoidStateType.Jumping) end
+	end
+end)
+
+
+-- -- ESP TAB -------------------------------------------------
+local espTab = GUI:Tab("ESP")
+
+-- ============================================================
+--  ESP STATE
+-- ============================================================
+local ESPState = {
+	Enabled       = false,
+	Boxes         = true,
+	Names         = true,
+	Distance      = true,
+	Tracers       = false,
+	HealthBar     = true,
+	Skeletons     = false,
+	Team          = false,  -- only show enemies
+	MaxDist       = 1000,
+	BoxColor      = Color3.fromRGB(255, 50, 50),
+	NameColor     = Color3.fromRGB(255, 255, 255),
+	TracerColor   = Color3.fromRGB(255, 255, 0),
+	HealthBarGood = Color3.fromRGB(0, 220, 80),
+	HealthBarLow  = Color3.fromRGB(220, 50, 50),
+	SkeletonColor = Color3.fromRGB(200, 200, 255),
+	BoxThickness  = 1,
+	TextSize      = 13,
+	TracerOrigin  = "Bottom", -- "Bottom" | "Center" | "Top"
+}
+
+-- ============================================================
+--  ESP INTERNALS
+-- ============================================================
+local ESPObjects = {}  -- [player] = { highlight, drawings... }
+
+local SKELETON_PAIRS = {
+	{"Head","UpperTorso"},{"UpperTorso","LowerTorso"},
+	{"UpperTorso","LeftUpperArm"},{"LeftUpperArm","LeftLowerArm"},{"LeftLowerArm","LeftHand"},
+	{"UpperTorso","RightUpperArm"},{"RightUpperArm","RightLowerArm"},{"RightLowerArm","RightHand"},
+	{"LowerTorso","LeftUpperLeg"},{"LeftUpperLeg","LeftLowerLeg"},{"LeftLowerLeg","LeftFoot"},
+	{"LowerTorso","RightUpperLeg"},{"RightUpperLeg","RightLowerLeg"},{"RightLowerLeg","RightFoot"},
+}
+
+local function newDrawing(type, props)
+	local d = Drawing.new(type)
+	for k,v in pairs(props) do d[k] = v end
+	return d
+end
+
+local function createESPForPlayer(pl)
+	if ESPObjects[pl] then return end
+	local obj = {}
+
+	-- 2D Box (4 lines)
+	obj.boxLines = {}
+	for i = 1, 4 do
+		obj.boxLines[i] = newDrawing("Line", {
+			Thickness = ESPState.BoxThickness,
+			Color = ESPState.BoxColor,
+			Transparency = 1,
+			Visible = false,
+		})
+	end
+
+	-- Corner box (8 corners x 2 lines = 16 lines)
+	obj.cornerLines = {}
+	for i = 1, 16 do
+		obj.cornerLines[i] = newDrawing("Line", {
+			Thickness = ESPState.BoxThickness + 1,
+			Color = ESPState.BoxColor,
+			Transparency = 1,
+			Visible = false,
+		})
+	end
+
+	-- Name label
+	obj.nameLabel = newDrawing("Text", {
+		Size = ESPState.TextSize,
+		Color = ESPState.NameColor,
+		Outline = true,
+		OutlineColor = Color3.fromRGB(0,0,0),
+		Center = true,
+		Visible = false,
+		Font = 2,
+	})
+
+	-- Distance label
+	obj.distLabel = newDrawing("Text", {
+		Size = ESPState.TextSize - 2,
+		Color = ESPState.NameColor,
+		Outline = true,
+		OutlineColor = Color3.fromRGB(0,0,0),
+		Center = true,
+		Visible = false,
+		Font = 2,
+	})
+
+	-- Tracer line
+	obj.tracer = newDrawing("Line", {
+		Thickness = 1,
+		Color = ESPState.TracerColor,
+		Transparency = 1,
+		Visible = false,
+	})
+
+	-- Health bar (background + fill)
+	obj.healthBG = newDrawing("Line", {
+		Thickness = 4,
+		Color = Color3.fromRGB(0,0,0),
+		Transparency = 1,
+		Visible = false,
+	})
+	obj.healthFill = newDrawing("Line", {
+		Thickness = 3,
+		Color = ESPState.HealthBarGood,
+		Transparency = 1,
+		Visible = false,
+	})
+
+	-- Skeleton lines
+	obj.skelLines = {}
+	for i = 1, #SKELETON_PAIRS do
+		obj.skelLines[i] = newDrawing("Line", {
+			Thickness = 1,
+			Color = ESPState.SkeletonColor,
+			Transparency = 1,
+			Visible = false,
+		})
+	end
+
+	ESPObjects[pl] = obj
+end
+
+local function removeESPForPlayer(pl)
+	local obj = ESPObjects[pl]
+	if not obj then return end
+	for _, ln in ipairs(obj.boxLines)    do ln:Remove() end
+	for _, ln in ipairs(obj.cornerLines) do ln:Remove() end
+	for _, ln in ipairs(obj.skelLines)   do ln:Remove() end
+	obj.nameLabel:Remove()
+	obj.distLabel:Remove()
+	obj.tracer:Remove()
+	obj.healthBG:Remove()
+	obj.healthFill:Remove()
+	ESPObjects[pl] = nil
+end
+
+local function clearAllESP()
+	for pl in pairs(ESPObjects) do removeESPForPlayer(pl) end
+end
+
+-- World -> Screen helper (returns screenPos, onScreen, depth)
+local function worldToScreen(pos)
+	local screenPos, onScreen = Camera:WorldToViewportPoint(pos)
+	return Vector2.new(screenPos.X, screenPos.Y), onScreen, screenPos.Z
+end
+
+-- Draw corner-style box helper
+local function drawCornerBox(lines, x, y, w, h, color, thickness)
+	local cx = w * 0.2
+	local cy = h * 0.2
+	-- TL, TR, BL, BR corners, each 2 lines
+	local corners = {
+		-- TL
+		{Vector2.new(x,y),        Vector2.new(x+cx,y)},
+		{Vector2.new(x,y),        Vector2.new(x,y+cy)},
+		-- TR
+		{Vector2.new(x+w,y),      Vector2.new(x+w-cx,y)},
+		{Vector2.new(x+w,y),      Vector2.new(x+w,y+cy)},
+		-- BL
+		{Vector2.new(x,y+h),      Vector2.new(x+cx,y+h)},
+		{Vector2.new(x,y+h),      Vector2.new(x,y+h-cy)},
+		-- BR
+		{Vector2.new(x+w,y+h),    Vector2.new(x+w-cx,y+h)},
+		{Vector2.new(x+w,y+h),    Vector2.new(x+w,y+h-cy)},
+	}
+	for i, seg in ipairs(corners) do
+		local ln = lines[i]
+		if ln then
+			ln.From = seg[1]; ln.To = seg[2]
+			ln.Color = color; ln.Thickness = thickness
+			ln.Visible = true
+		end
+	end
+end
+local VoiceChatService = game:GetService("VoiceChatService")
+
+SelfState.AutoVoiceCheck = false
+
+local function tryVoiceConnect()
+	pcall(function()
+		VoiceChatService:JoinVoice()
+	end)
+end
+
+task.spawn(function()
+	while true do
+		if SelfState.AutoVoiceCheck then
+			tryVoiceConnect()
+		end
+		task.wait(0.1)
+	end
+end)
+
+selfTab:Toggle("Auto Voice Rejoin", false, function(on)
+	SelfState.AutoVoiceCheck = on
+end)
+-- Main ESP render loop
+RunService.RenderStepped:Connect(function()
+	if not ESPState.Enabled then
+		-- hide everything but keep objects alive for re-enable
+		for pl, obj in pairs(ESPObjects) do
+			for _, ln in ipairs(obj.boxLines)    do ln.Visible = false end
+			for _, ln in ipairs(obj.cornerLines) do ln.Visible = false end
+			for _, ln in ipairs(obj.skelLines)   do ln.Visible = false end
+			obj.nameLabel.Visible = false; obj.distLabel.Visible = false
+			obj.tracer.Visible = false
+			obj.healthBG.Visible = false; obj.healthFill.Visible = false
+		end
+		return
+	end
+
+	local myChar = LocalPlayer.Character
+	local myHRP  = myChar and myChar:FindFirstChild("HumanoidRootPart")
+	local vp     = Camera.ViewportSize
+
+	for _, pl in ipairs(Players:GetPlayers()) do
+		if pl == LocalPlayer then
+			if ESPObjects[pl] then removeESPForPlayer(pl) end
+		else
+			if ESPState.Team and pl.Team == LocalPlayer.Team then
+				if ESPObjects[pl] then removeESPForPlayer(pl) end
+			else
+				createESPForPlayer(pl)
+				local obj = ESPObjects[pl]
+				local char = pl.Character
+				local hrp  = char and char:FindFirstChild("HumanoidRootPart")
+				local hum  = char and char:FindFirstChildOfClass("Humanoid")
+
+				if not hrp or not char then
+					for _, ln in ipairs(obj.boxLines) do ln.Visible = false end
+					for _, ln in ipairs(obj.cornerLines) do ln.Visible = false end
+					for _, ln in ipairs(obj.skelLines) do ln.Visible = false end
+					obj.nameLabel.Visible = false; obj.distLabel.Visible = false
+					obj.tracer.Visible = false
+					obj.healthBG.Visible = false; obj.healthFill.Visible = false
+				else
+					local dist = myHRP and (hrp.Position - myHRP.Position).Magnitude or 0
+
+					if dist > ESPState.MaxDist then
+						for _, ln in ipairs(obj.boxLines) do ln.Visible = false end
+						for _, ln in ipairs(obj.cornerLines) do ln.Visible = false end
+						for _, ln in ipairs(obj.skelLines) do ln.Visible = false end
+						obj.nameLabel.Visible = false; obj.distLabel.Visible = false
+						obj.tracer.Visible = false
+						obj.healthBG.Visible = false; obj.healthFill.Visible = false
+					else
+						local head = char:FindFirstChild("Head")
+						local rootTop    = hrp.Position + Vector3.new(0, 3, 0)
+						local rootBottom = hrp.Position - Vector3.new(0, 3, 0)
+
+						local topScreen, _, topD = worldToScreen(rootTop)
+						local bottomScreen, _, bottomD = worldToScreen(rootBottom)
+
+						local onScreen = topD > 0
+
+						if not onScreen then
+							for _, ln in ipairs(obj.boxLines) do ln.Visible = false end
+							for _, ln in ipairs(obj.cornerLines) do ln.Visible = false end
+							for _, ln in ipairs(obj.skelLines) do ln.Visible = false end
+							obj.nameLabel.Visible = false; obj.distLabel.Visible = false
+							obj.tracer.Visible = false
+							obj.healthBG.Visible = false; obj.healthFill.Visible = false
+						else
+							local boxH = math.abs(topScreen.Y - bottomScreen.Y)
+							local boxW = boxH * 0.55
+							local boxX = topScreen.X - boxW / 2
+							local boxY = topScreen.Y
+
+							if ESPState.Boxes then
+								local pts = {
+									Vector2.new(boxX, boxY),
+									Vector2.new(boxX+boxW, boxY),
+									Vector2.new(boxX+boxW, boxY+boxH),
+									Vector2.new(boxX, boxY+boxH),
+								}
+
+								for i = 1, 4 do
+									local ln = obj.boxLines[i]
+									ln.From = pts[i]
+									ln.To = pts[i % 4 + 1]
+									ln.Color = ESPState.BoxColor
+									ln.Thickness = ESPState.BoxThickness
+									ln.Visible = true
+								end
+
+								drawCornerBox(obj.cornerLines, boxX, boxY, boxW, boxH,
+									ESPState.BoxColor, ESPState.BoxThickness + 1)
+
+								for i = 9, 16 do
+									obj.cornerLines[i].Visible = false
+								end
+							else
+								for _, ln in ipairs(obj.boxLines) do ln.Visible = false end
+								for _, ln in ipairs(obj.cornerLines) do ln.Visible = false end
+							end
+
+							if ESPState.Names then
+								obj.nameLabel.Text = pl.DisplayName
+								obj.nameLabel.Size = ESPState.TextSize
+								obj.nameLabel.Color = ESPState.NameColor
+								obj.nameLabel.Position = Vector2.new(topScreen.X, boxY - ESPState.TextSize - 2)
+								obj.nameLabel.Visible = true
+							else
+								obj.nameLabel.Visible = false
+							end
+
+							if ESPState.Distance then
+								obj.distLabel.Text = string.format("[%.0fm]", dist)
+								obj.distLabel.Size = math.max(9, ESPState.TextSize - 2)
+								obj.distLabel.Color = ESPState.NameColor
+								obj.distLabel.Position = Vector2.new(topScreen.X, boxY + boxH + 2)
+								obj.distLabel.Visible = true
+							else
+								obj.distLabel.Visible = false
+							end
+
+							if ESPState.Tracers then
+								local origin
+								if ESPState.TracerOrigin == "Bottom" then
+									origin = Vector2.new(vp.X/2, vp.Y)
+								elseif ESPState.TracerOrigin == "Top" then
+									origin = Vector2.new(vp.X/2, 0)
+								else
+									origin = Vector2.new(vp.X/2, vp.Y/2)
+								end
+
+								obj.tracer.From = origin
+								obj.tracer.To = bottomScreen
+								obj.tracer.Color = ESPState.TracerColor
+								obj.tracer.Visible = true
+							else
+								obj.tracer.Visible = false
+							end
+
+							if ESPState.HealthBar and hum then
+								local hpRatio = math.clamp(hum.Health / hum.MaxHealth, 0, 1)
+								local barX = boxX - 6
+								local barTop = Vector2.new(barX, boxY)
+								local barBot = Vector2.new(barX, boxY + boxH)
+								local fillBot = Vector2.new(barX, boxY + boxH - boxH * hpRatio)
+
+								local hpColor = ESPState.HealthBarGood:Lerp(ESPState.HealthBarLow, 1 - hpRatio)
+
+								obj.healthBG.From = barTop
+								obj.healthBG.To = barBot
+								obj.healthBG.Visible = true
+
+								obj.healthFill.From = fillBot
+								obj.healthFill.To = barBot
+								obj.healthFill.Color = hpColor
+								obj.healthFill.Visible = true
+							else
+								obj.healthBG.Visible = false
+								obj.healthFill.Visible = false
+							end
+
+							-- == SKELETON (R6 + R15 FIXED) ==
+							if ESPState.Skeletons then
+								local function getPart(names)
+									for _, n in ipairs(names) do
+										local p = char:FindFirstChild(n)
+										if p and p:IsA("BasePart") then
+											return p
+										end
+									end
+									return nil
+								end
+
+								local function bone(i, a, b)
+									local ln = obj.skelLines[i]
+									if not a or not b then
+										ln.Visible = false
+										return
+									end
+
+									local s0, _, d0 = worldToScreen(a.Position)
+									local s1, _, d1 = worldToScreen(b.Position)
+
+									if d0 > 0 and d1 > 0 then
+										ln.From = s0
+										ln.To = s1
+										ln.Color = ESPState.SkeletonColor
+										ln.Visible = true
+									else
+										ln.Visible = false
+									end
+								end
+
+								local TORSO = getPart({"UpperTorso","Torso"})
+								local LOWER = getPart({"LowerTorso","Torso"})
+								local HEAD  = getPart({"Head"})
+
+								bone(1, HEAD, TORSO)
+								bone(2, TORSO, LOWER)
+
+								bone(3, TORSO, getPart({"LeftUpperArm","Left Arm"}))
+								bone(4, getPart({"LeftUpperArm","Left Arm"}), getPart({"LeftLowerArm"}))
+								bone(5, getPart({"LeftLowerArm"}), getPart({"LeftHand","Left Arm"}))
+
+								bone(6, TORSO, getPart({"RightUpperArm","Right Arm"}))
+								bone(7, getPart({"RightUpperArm","Right Arm"}), getPart({"RightLowerArm"}))
+								bone(8, getPart({"RightLowerArm"}), getPart({"RightHand","Right Arm"}))
+
+								bone(9, LOWER, getPart({"LeftUpperLeg","Left Leg"}))
+								bone(10, getPart({"LeftUpperLeg","Left Leg"}), getPart({"LeftLowerLeg"}))
+								bone(11, getPart({"LeftLowerLeg"}), getPart({"LeftFoot","Left Leg"}))
+
+								bone(12, LOWER, getPart({"RightUpperLeg","Right Leg"}))
+								bone(13, getPart({"RightUpperLeg","Right Leg"}), getPart({"RightLowerLeg"}))
+								bone(14, getPart({"RightLowerLeg"}), getPart({"RightFoot","Right Leg"}))
+
+								for i = 15, #obj.skelLines do
+									obj.skelLines[i].Visible = false
+								end
+							else
+								for _, ln in ipairs(obj.skelLines) do
+									ln.Visible = false
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+
+	for pl in pairs(ESPObjects) do
+		if not Players:FindFirstChild(pl.Name) then
+			removeESPForPlayer(pl)
+		end
+	end
+end)
+
+-- cleanup on character respawn
+LocalPlayer.CharacterAdded:Connect(function()
+	task.wait(1)
+end)
+
+Players.PlayerRemoving:Connect(function(pl)
+	removeESPForPlayer(pl)
+end)
+
+
+-- ============================================================
+--  LIGHTING TAB (REAL ENGINE RANGES)
+-- ============================================================
+local Lighting = game:GetService("Lighting")
+
+local base = {
+	Brightness = Lighting.Brightness,
+	ClockTime = Lighting.ClockTime,
+	FogEnd = Lighting.FogEnd,
+	FogStart = Lighting.FogStart,
+	ExposureCompensation = Lighting.ExposureCompensation,
+	ShadowSoftness = Lighting.ShadowSoftness,
+	EnvironmentDiffuseScale = Lighting.EnvironmentDiffuseScale,
+	EnvironmentSpecularScale = Lighting.EnvironmentSpecularScale,
+	GlobalShadows = Lighting.GlobalShadows,
+	Ambient = Lighting.Ambient,
+	OutdoorAmbient = Lighting.OutdoorAmbient,
+}
+
+local function get(class)
+	local obj = Lighting:FindFirstChild(class)
+	if not obj then
+		obj = Instance.new(class)
+		obj.Parent = Lighting
+	end
+	return obj
+end
+
+
+-- SERVICES
+
+-- AIMBOT TAB
+local aimTab = GUI:Tab("Aimbot")
+
+-- STATE
+local AimbotState = {
+	Enabled        = false,
+	Smoothing      = 10,
+	TargetPart     = "Head",
+	TeamCheck      = false,
+	VisCheck       = false,
+	StickyTarget   = false,
+	StickyStrength = 5,
+	PredictMotion  = false,
+	PredictFactor  = 5,
+	TargetColor    = Color3.fromRGB(255, 50, 50),
+	ShowIndicator  = true,
+	ClosestTarget  = nil,
+
+	-- NEW FEATURES
+	LockOn         = false,
+	MouseLock      = false,
+	ToggleKey      = Enum.KeyCode.Q
+}
+
+-- INPUT CONTROL
+UserInputService.InputBegan:Connect(function(input, gpe)
+	if gpe then return end
+
+	if input.KeyCode == AimbotState.ToggleKey then
+		AimbotState.Enabled = not AimbotState.Enabled
+		if AimbotState.Enabled then
+			startAimbot()
+		else
+			stopAimbot()
+		end
+	end
+end)
+
+-- SAFE DRAWING
+local function newDrawingSafe(drawType, props)
+	if not Drawing then return nil end
+	local ok, obj = pcall(Drawing.new, drawType)
+	if not ok or not obj then return nil end
+	for k, v in pairs(props) do
+		pcall(function() obj[k] = v end)
+	end
+	return obj
+end
+
+local function setDP(obj, key, val)
+	if obj then pcall(function() obj[key] = val end) end
+end
+
+local function hideD(obj)
+	setDP(obj, "Visible", false)
+end
+
+-- DRAW OBJECTS
+local TargetLine = newDrawingSafe("Line", {
+	Thickness = 1,
+	Color = AimbotState.TargetColor,
+	Transparency = 1,
+	Visible = false,
+})
+
+local TargetDot = newDrawingSafe("Circle", {
+	Thickness = 1,
+	Color = AimbotState.TargetColor,
+	Filled = true,
+	Visible = false,
+	NumSides = 16,
+	Radius = 5,
+})
+
+local TargetLabel = newDrawingSafe("Text", {
+	Size = 13,
+	Color = Color3.fromRGB(255,255,255),
+	Outline = true,
+	Center = true,
+	Visible = false,
+	Font = 2,
+})
+
+-- HELPERS
+local function getViewportCenter()
+	local v = Camera.ViewportSize
+	return Vector2.new(v.X/2, v.Y/2)
+end
+
+local function isAlive(char)
+	local hum = char and char:FindFirstChildOfClass("Humanoid")
+	return hum and hum.Health > 0
+end
+
+local function getTargetPart(char)
+	return char:FindFirstChild(AimbotState.TargetPart)
+		or char:FindFirstChild("Head")
+		or char:FindFirstChildOfClass("BasePart")
+end
+
+-- >>> ADDED UI FOR TARGET PART SELECTION <<<
+aimTab:Dropdown("Target Part", {
+	"Head",
+	"HumanoidRootPart",
+	"UpperTorso",
+	"LowerTorso",
+	"LeftUpperArm",
+	"RightUpperArm",
+	"LeftLowerLeg",
+	"RightLowerLeg"
+}, function(part)
+	AimbotState.TargetPart = part
+end)
+
+local function screenDist(pos)
+	local v, ok = Camera:WorldToViewportPoint(pos)
+	if not ok then return math.huge end
+	return (Vector2.new(v.X, v.Y) - getViewportCenter()).Magnitude
+end
+
+local function isOccluded(fromPos, toPos)
+	local params = RaycastParams.new()
+	params.FilterDescendantsInstances = {LocalPlayer.Character}
+	params.FilterType = Enum.RaycastFilterType.Blacklist
+
+	local dir = toPos - fromPos
+	local hit = Workspace:Raycast(fromPos, dir, params)
+
+	return hit and (hit.Position - fromPos).Magnitude < dir.Magnitude
+end
+
+local function isNPC(model)
+	if not model or not model:IsA("Model") then return false end
+	if Players:GetPlayerFromCharacter(model) then return false end
+
+	local hum = model:FindFirstChildOfClass("Humanoid")
+	return hum and hum.Health > 0
+end
+
+local function findClosestTarget()
+	local best, bestPart, bestDist = nil, nil, math.huge
+
+	-- PLAYERS
+	for _, pl in ipairs(Players:GetPlayers()) do
+		if pl ~= LocalPlayer and pl.Character and isAlive(pl.Character) then
+
+			if AimbotState.TeamCheck and pl.Team == LocalPlayer.Team then
+				continue
+			end
+
+			local part = getTargetPart(pl.Character)
+			if part then
+
+				if AimbotState.VisCheck then
+					local root = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+					if root and isOccluded(root.Position, part.Position) then
+						continue
+					end
+				end
+
+				local dist = screenDist(part.Position)
+				if dist < bestDist then
+					bestDist = dist
+					best = pl
+					bestPart = part
+				end
+			end
+		end
+	end
+
+	-- NPCS / ZOMBIES (workspace scan)
+	for _, obj in ipairs(workspace:GetChildren()) do
+		if isNPC(obj) and obj ~= LocalPlayer.Character then
+
+			local part = getTargetPart(obj)
+			if part then
+
+				if AimbotState.VisCheck then
+					local root = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+					if root and isOccluded(root.Position, part.Position) then
+						continue
+					end
+				end
+
+				local dist = screenDist(part.Position)
+				if dist < bestDist then
+					bestDist = dist
+					best = obj
+					bestPart = part
+				end
+			end
+		end
+	end
+
+	AimbotState.ClosestTarget = best
+	return best, bestPart
+end
+
+-- RUNTIME
+local conn
+
+function startAimbot()
+	if conn then conn:Disconnect() end
+
+	conn = RunService.RenderStepped:Connect(function(dt)
+		if not AimbotState.Enabled then
+			hideD(TargetLine)
+			hideD(TargetDot)
+			hideD(TargetLabel)
+			return
+		end
+
+		local ok = pcall(function()
+			local pl, part = findClosestTarget()
+			if not pl or not part then return end
+
+			local aimPos = part.Position
+
+			if AimbotState.PredictMotion then
+				local vel = part.AssemblyLinearVelocity
+				local t = (Camera.CFrame.Position - aimPos).Magnitude * 0.001 * AimbotState.PredictFactor
+				aimPos = aimPos + vel * t
+			end
+
+			local v, onScreen = Camera:WorldToViewportPoint(aimPos)
+			if not onScreen then return end
+
+			local sp = Vector2.new(v.X, v.Y)
+			local center = getViewportCenter()
+
+			if AimbotState.ShowIndicator then
+				setDP(TargetLine, "From", center)
+				setDP(TargetLine, "To", sp)
+				setDP(TargetLine, "Visible", true)
+
+				setDP(TargetDot, "Position", sp)
+				setDP(TargetDot, "Visible", true)
+
+				setDP(TargetLabel, "Text", pl.DisplayName or "???")
+				setDP(TargetLabel, "Position", Vector2.new(sp.X, sp.Y - 18))
+				setDP(TargetLabel, "Visible", true)
+			end
+
+			local smooth = math.clamp(dt * (100 / math.max(1, AimbotState.Smoothing)), 0, 1)
+			Camera.CFrame = Camera.CFrame:Lerp(
+				CFrame.new(Camera.CFrame.Position, aimPos),
+				AimbotState.LockOn and 1 or smooth
+			)
+
+			if AimbotState.MouseLock then
+				UserInputService.MouseBehavior = Enum.MouseBehavior.LockCenter
+			else
+				UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+			end
+		end)
+	end)
+end
+
+function stopAimbot()
+	if conn then conn:Disconnect() conn = nil end
+	hideD(TargetLine)
+	hideD(TargetDot)
+	hideD(TargetLabel)
+	AimbotState.ClosestTarget = nil
+	UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+end
+
+-- UI CONTROLS
+aimTab:Toggle("Aimbot Enabled", false, function(v)
+	AimbotState.Enabled = v
+	if v then startAimbot() else stopAimbot() end
+end)
+
+aimTab:Toggle("Lock-On Target", false, function(v)
+	AimbotState.LockOn = v
+end)
+
+aimTab:Toggle("Mouse Lock", false, function(v)
+	AimbotState.MouseLock = v
+end)
+
+aimTab:Slider("Smoothing", 1, 50, 10, function(v)
+	AimbotState.Smoothing = v
+end)
+
+aimTab:Toggle("Team Check", false, function(v)
+	AimbotState.TeamCheck = v
+end)
+
+aimTab:Toggle("Visibility Check", false, function(v)
+	AimbotState.VisCheck = v
+end)
+
+aimTab:Toggle("Prediction", false, function(v)
+	AimbotState.PredictMotion = v
+end)
+
+aimTab:Slider("Predict Factor", 1, 30, 5, function(v)
+	AimbotState.PredictFactor = v
+end)
+
+aimTab:Dropdown("Toggle Key", {
+	"Q","W","E","R","T","Y","U","I","O","P",
+	"A","S","D","F","G","H","J","K","L",
+	"Z","X","C","V","B","N","M",
+
+	"F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12",
+
+	"LeftShift","RightShift",
+	"LeftControl","RightControl",
+	"LeftAlt","RightAlt",
+	"Space",
+
+	"Return",
+	"Tab",
+	"Backspace",
+	"Escape"
+}, function(key)
+	AimbotState.ToggleKey = Enum.KeyCode[key]
+end)
+
+aimTab:Button("Reset", function()
+	stopAimbot()
+	AimbotState.Enabled = false
+	AimbotState.LockOn = false
+	AimbotState.MouseLock = false
+	AimbotState.Smoothing = 10
+	AimbotState.TeamCheck = false
+	AimbotState.VisCheck = false
+	AimbotState.PredictMotion = false
+	AimbotState.PredictFactor = 5
+end)
+
+
+local bloom = get("BloomEffect")
+local blur = get("BlurEffect")
+local color = get("ColorCorrectionEffect")
+local sun = get("SunRaysEffect")
+local atm = get("Atmosphere")
+
+bloom.Enabled = false
+blur.Enabled = false
+color.Enabled = false
+sun.Enabled = false
+
+local lightingTab = GUI:Tab("Lighting")
+
+lightingTab:Label("Core Lighting")
+
+lightingTab:Slider("Brightness", 0, 20, Lighting.Brightness, function(v)
+	Lighting.Brightness = v
+end)
+
+lightingTab:Slider("Clock Time", 0, 24, Lighting.ClockTime, function(v)
+	Lighting.ClockTime = v
+end)
+
+lightingTab:Slider("Exposure", -10, 10, Lighting.ExposureCompensation, function(v)
+	Lighting.ExposureCompensation = v
+end)
+
+lightingTab:Toggle("Global Shadows", Lighting.GlobalShadows, function(v)
+	Lighting.GlobalShadows = v
+end)
+
+lightingTab:Slider("Shadow Softness", 0, 1, Lighting.ShadowSoftness, function(v)
+	Lighting.ShadowSoftness = v
+end)
+
+lightingTab:Slider("Env Diffuse", 0, 5, Lighting.EnvironmentDiffuseScale, function(v)
+	Lighting.EnvironmentDiffuseScale = v
+end)
+
+lightingTab:Slider("Env Specular", 0, 5, Lighting.EnvironmentSpecularScale, function(v)
+	Lighting.EnvironmentSpecularScale = v
+end)
+
+lightingTab:Label("Fog System")
+
+lightingTab:Slider("Fog Start", 0, 5000, Lighting.FogStart, function(v)
+	Lighting.FogStart = v
+end)
+
+lightingTab:Slider("Fog End", 0, 500000, Lighting.FogEnd, function(v)
+	Lighting.FogEnd = v
+end)
+
+lightingTab:Label("Atmosphere")
+
+lightingTab:Slider("Density", 0, 2, atm.Density, function(v)
+	atm.Density = v
+end)
+
+lightingTab:Slider("Haze", 0, 20, atm.Haze, function(v)
+	atm.Haze = v
+end)
+
+lightingTab:Slider("Glare", 0, 20, atm.Glare, function(v)
+	atm.Glare = v
+end)
+
+lightingTab:Slider("Offset", -5, 5, atm.Offset, function(v)
+	atm.Offset = v
+end)
+
+lightingTab:Label("Ambient")
+
+lightingTab:Input("Ambient RGB", "0-255,0-255,0-255", function(txt)
+	local r,g,b = txt:match("(%d+),(%d+),(%d+)")
+	if r then
+		Lighting.Ambient = Color3.fromRGB(r,g,b)
+	end
+end)
+
+lightingTab:Input("Outdoor RGB", "0-255,0-255,0-255", function(txt)
+	local r,g,b = txt:match("(%d+),(%d+),(%d+)")
+	if r then
+		Lighting.OutdoorAmbient = Color3.fromRGB(r,g,b)
+	end
+end)
+
+lightingTab:Label("Post Processing")
+
+lightingTab:Toggle("Bloom", false, function(on)
+	bloom.Enabled = on
+end)
+
+lightingTab:Slider("Bloom Intensity", 0, 10, bloom.Intensity, function(v)
+	bloom.Intensity = v
+end)
+
+lightingTab:Slider("Bloom Size", 0, 100, bloom.Size, function(v)
+	bloom.Size = v
+end)
+
+lightingTab:Slider("Bloom Threshold", 0, 1, bloom.Threshold, function(v)
+	bloom.Threshold = v
+end)
+
+lightingTab:Toggle("Blur", false, function(on)
+	blur.Enabled = on
+end)
+
+lightingTab:Slider("Blur Size", 0, 56, blur.Size, function(v)
+	blur.Size = v
+end)
+
+lightingTab:Toggle("Color Correction", false, function(on)
+	color.Enabled = on
+end)
+
+lightingTab:Slider("Saturation", -3, 3, color.Saturation, function(v)
+	color.Saturation = v
+end)
+
+lightingTab:Slider("Contrast", -3, 3, color.Contrast, function(v)
+	color.Contrast = v
+end)
+
+lightingTab:Slider("Brightness", -3, 3, color.Brightness, function(v)
+	color.Brightness = v
+end)
+
+lightingTab:Toggle("Sun Rays", false, function(on)
+	sun.Enabled = on
+end)
+
+lightingTab:Slider("Sun Intensity", 0, 5, sun.Intensity, function(v)
+	sun.Intensity = v
+end)
+
+lightingTab:Slider("Sun Spread", 0, 1, sun.Spread, function(v)
+	sun.Spread = v
+end)
+
+lightingTab:Button("Reset Lighting", function()
+	for k,v in pairs(base) do
+		Lighting[k] = v
+	end
+
+	bloom.Enabled = false
+	blur.Enabled = false
+	color.Enabled = false
+	sun.Enabled = false
+
+	bloom.Intensity = 1
+	bloom.Size = 24
+	bloom.Threshold = 0.8
+	blur.Size = 0
+	color.Saturation = 0
+	color.Contrast = 0
+	color.Brightness = 0
+	sun.Intensity = 1
+	sun.Spread = 0.5
+end)
+
+
+-- ============================================================
+--  ESP TAB UI
+-- ============================================================
+
+espTab:Label("Main")
+
+espTab:Toggle("ESP Enabled", false, function(on)
+	ESPState.Enabled = on
+	if not on then clearAllESP() end
+end)
+
+espTab:Toggle("Boxes", true, function(on)
+	ESPState.Boxes = on
+end)
+
+espTab:Toggle("Names", true, function(on)
+	ESPState.Names = on
+end)
+
+espTab:Toggle("Distance", true, function(on)
+	ESPState.Distance = on
+end)
+
+espTab:Toggle("Tracers", false, function(on)
+	ESPState.Tracers = on
+end)
+
+espTab:Toggle("Health Bar", true, function(on)
+	ESPState.HealthBar = on
+end)
+
+espTab:Toggle("Skeleton", false, function(on)
+	ESPState.Skeletons = on
+end)
+
+espTab:Toggle("Enemies Only (Team Filter)", false, function(on)
+	ESPState.Team = on
+end)
+
+espTab:Label("Settings")
+
+espTab:Slider("Max Distance", 50, 2000, 1000, function(val)
+	ESPState.MaxDist = val
+end)
+
+espTab:Slider("Box Thickness", 1, 5, 1, function(val)
+	ESPState.BoxThickness = val
+end)
+
+espTab:Slider("Text Size", 8, 24, 13, function(val)
+	ESPState.TextSize = val
+end)
+
+espTab:Dropdown("Tracer Origin", {"Bottom", "Center", "Top"}, function(choice)
+	ESPState.TracerOrigin = choice
+end)
+
+espTab:Label("Box Color  (R / G / B)")
+espTab:Slider("Box R", 0, 255, 255, function(v)
+	ESPState.BoxColor = Color3.fromRGB(v, ESPState.BoxColor.G*255, ESPState.BoxColor.B*255)
+end)
+espTab:Slider("Box G", 0, 255, 50, function(v)
+	ESPState.BoxColor = Color3.fromRGB(ESPState.BoxColor.R*255, v, ESPState.BoxColor.B*255)
+end)
+espTab:Slider("Box B", 0, 255, 50, function(v)
+	ESPState.BoxColor = Color3.fromRGB(ESPState.BoxColor.R*255, ESPState.BoxColor.G*255, v)
+end)
+
+espTab:Label("Name Color  (R / G / B)")
+espTab:Slider("Name R", 0, 255, 255, function(v)
+	ESPState.NameColor = Color3.fromRGB(v, ESPState.NameColor.G*255, ESPState.NameColor.B*255)
+end)
+espTab:Slider("Name G", 0, 255, 255, function(v)
+	ESPState.NameColor = Color3.fromRGB(ESPState.NameColor.R*255, v, ESPState.NameColor.B*255)
+end)
+espTab:Slider("Name B", 0, 255, 255, function(v)
+	ESPState.NameColor = Color3.fromRGB(ESPState.NameColor.R*255, ESPState.NameColor.G*255, v)
+end)
+
+espTab:Label("Tracer Color  (R / G / B)")
+espTab:Slider("Tracer R", 0, 255, 255, function(v)
+	ESPState.TracerColor = Color3.fromRGB(v, ESPState.TracerColor.G*255, ESPState.TracerColor.B*255)
+end)
+espTab:Slider("Tracer G", 0, 255, 255, function(v)
+	ESPState.TracerColor = Color3.fromRGB(ESPState.TracerColor.R*255, v, ESPState.TracerColor.B*255)
+end)
+espTab:Slider("Tracer B", 0, 255, 0, function(v)
+	ESPState.TracerColor = Color3.fromRGB(ESPState.TracerColor.R*255, ESPState.TracerColor.G*255, v)
+end)
+
+espTab:Label("Skeleton Color  (R / G / B)")
+espTab:Slider("Skel R", 0, 255, 200, function(v)
+	ESPState.SkeletonColor = Color3.fromRGB(v, ESPState.SkeletonColor.G*255, ESPState.SkeletonColor.B*255)
+end)
+espTab:Slider("Skel G", 0, 255, 200, function(v)
+	ESPState.SkeletonColor = Color3.fromRGB(ESPState.SkeletonColor.R*255, v, ESPState.SkeletonColor.B*255)
+end)
+espTab:Slider("Skel B", 0, 255, 255, function(v)
+	ESPState.SkeletonColor = Color3.fromRGB(ESPState.SkeletonColor.R*255, ESPState.SkeletonColor.G*255, v)
+end)
+
+espTab:Button("Reset ESP", function()
+	clearAllESP()
+	ESPState.Enabled = false
+end)
+-- no clip (fixed: per-frame apply, smooth restore, all BasePart subtypes)
+local originalCollide = {}
+
+RunService.Stepped:Connect(function()
+	local char = LocalPlayer.Character
+	if not char then return end
+
+	if SelfState.NoClip then
+		-- Apply every frame so newly added parts (accessories, tools) get caught
+		for _, p in ipairs(char:GetDescendants()) do
+			if p:IsA("BasePart") then
+				-- Save original state only once per part
+				if originalCollide[p] == nil then
+					originalCollide[p] = p.CanCollide
+				end
+				p.CanCollide = false
+			end
+		end
+	else
+		-- Restore only parts we actually modified
+		for p, v in pairs(originalCollide) do
+			-- Guard: part may have been destroyed
+			if p and p.Parent then
+				p.CanCollide = v
+			end
+		end
+		table.clear(originalCollide)
+	end
+end)
+
+-- anti AFK
+LocalPlayer.Idled:Connect(function()
+	if SelfState.AntiAFK then
+		VirtualUser:Button2Down(Vector2.zero, Camera.CFrame)
+		task.wait(1)
+		VirtualUser:Button2Up(Vector2.zero, Camera.CFrame)
+	end
+end)
+
+-- anti void
+local lastSafeCFrame = nil
+RunService.Heartbeat:Connect(function()
+	if not SelfState.AntiVoid then return end
+	local char = LocalPlayer.Character; if not char then return end
+	local hrp = char:FindFirstChild("HumanoidRootPart"); if not hrp then return end
+	local params = RaycastParams.new()
+	params.FilterDescendantsInstances = {char}
+	params.FilterType = Enum.RaycastFilterType.Blacklist
+	local groundHit = Workspace:Raycast(hrp.Position, Vector3.new(0,-5,0), params)
+	local velocityY = hrp.AssemblyLinearVelocity.Y
+	if groundHit and math.abs(velocityY) < 1 then lastSafeCFrame = hrp.CFrame end
+	if hrp.Position.Y < -50 and lastSafeCFrame then
+		hrp.AssemblyLinearVelocity = Vector3.zero
+		hrp.AssemblyAngularVelocity = Vector3.zero
+		hrp.CFrame = lastSafeCFrame
+	end
+end)
+
+-- fly loop
+RunService.RenderStepped:Connect(function()
+	if not SelfState.Flying or not flyBV or not flyBG then return end
+	local hrp = getRootPart(); if not hrp then return end
+	local camCF = Camera.CFrame; local dir = Vector3.zero
+	if UserInputService:IsKeyDown(Enum.KeyCode.W) then dir = dir + camCF.LookVector  end
+	if UserInputService:IsKeyDown(Enum.KeyCode.S) then dir = dir - camCF.LookVector  end
+	if UserInputService:IsKeyDown(Enum.KeyCode.A) then dir = dir - camCF.RightVector end
+	if UserInputService:IsKeyDown(Enum.KeyCode.D) then dir = dir + camCF.RightVector end
+	if UserInputService:IsKeyDown(Enum.KeyCode.Space)       then dir = dir + Vector3.new(0,1,0) end
+	if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) then dir = dir - Vector3.new(0,1,0) end
+	flyBV.Velocity = dir.Magnitude > 0 and dir.Unit * SelfState.FlySpeed or Vector3.zero
+	flyBG.CFrame = CFrame.new(hrp.Position, hrp.Position + camCF.LookVector)
+end)
+
+
+
+-- hitbox expander
+RunService.RenderStepped:Connect(function()
+	if not PVPState.HitboxExpand then return end
+	for _, pl in ipairs(Players:GetPlayers()) do
+		if pl ~= LocalPlayer and pl.Character then
+			local hrp = pl.Character:FindFirstChild("HumanoidRootPart")
+			if hrp then
+				local s = PVPState.HitboxSize
+				hrp.Size = Vector3.new(s,s,s)
+				hrp.CanCollide = false
+				hrp.Transparency = 0.3
+			end
+		end
+	end
+end)
+
+-- reach
+RunService.Stepped:Connect(function()
+	if not PVPState.Reach then return end
+	local char = LocalPlayer.Character; if not char then return end
+	local sword = char:FindFirstChildOfClass("Tool")
+		or LocalPlayer.Backpack:FindFirstChildOfClass("Tool")
+	if not sword or not sword:FindFirstChild("Handle") then return end
+	local playerHRP = char:FindFirstChild("HumanoidRootPart"); if not playerHRP then return end
+	pcall(function()
+		local fireTouch = firetouchinterest; if not fireTouch then return end
+		for _, targetPlayer in ipairs(Players:GetPlayers()) do
+			if targetPlayer ~= LocalPlayer and targetPlayer.Character then
+				local targetHRP = targetPlayer.Character:FindFirstChild("HumanoidRootPart")
+				if targetHRP then
+					local dist = (targetHRP.Position - playerHRP.Position).Magnitude
+					if dist <= PVPState.ReachDist then
+						for _, part in ipairs(targetPlayer.Character:GetChildren()) do
+							if part:IsA("BasePart") then
+								fireTouch(sword.Handle, part, 0)
+								fireTouch(sword.Handle, part, 1)
+								fireTouch(sword.Handle, part, 0)
+							end
+						end
+					end
+				end
+			end
+		end
+	end)
+end)
+
+-- ============================================================
+--  MINIMIZE / EXIT
+-- ============================================================
+local minimized = false
+local storedH   = MainFrame.Size.Y.Offset
+
+MinBtn.MouseButton1Click:Connect(function()
+	minimized = not minimized
+	if minimized then
+		storedH = MainFrame.Size.Y.Offset
+		TweenService:Create(MainFrame, TweenInfo.new(0.2), {
+			Size = UDim2.new(0, MainFrame.Size.X.Offset, 0, 40)
+		}):Play()
+		task.wait(0.05)
+		TabBar.Visible      = false
+		ContentArea.Visible = false
+	else
+		TabBar.Visible      = true
+		ContentArea.Visible = true
+		TweenService:Create(MainFrame, TweenInfo.new(0.2), {
+			Size = UDim2.new(0, MainFrame.Size.X.Offset, 0, storedH)
+		}):Play()
+	end
+end)
+
+ExitBtn.MouseButton1Click:Connect(function()
+	_stopFly()
+	TweenService:Create(MainFrame, TweenInfo.new(0.2), {
+		BackgroundTransparency = 1
+	}):Play()
+	task.wait(0.22)
+	ScreenGui:Destroy()
+end)
+
+-- ============================================================
+--  SETTINGS  (RGB colour pickers)
+-- ============================================================
+
+local UI_ACTIVE = false
+local UserInputService = game:GetService("UserInputService")
+
+local SF = Instance.new("Frame")
+SF.Size = UDim2.new(0,360,0,500)
+SF.Position = UDim2.new(0.5,-180,0.5,-250)
+SF.BackgroundColor3 = Theme.SettingsBG
+SF.BorderSizePixel = 0
+SF.Visible = false
+SF.ZIndex = 20
+SF.Parent = ScreenGui
+
+Instance.new("UICorner", SF).CornerRadius = UDim.new(0, 10)
+
+local SFS = Instance.new("UIStroke", SF)
+SFS.Color = Theme.Accent
+SFS.Thickness = 2
+SFS.Transparency = 0.3
+
+reg(SF, "BackgroundColor3", "SettingsBG")
+table.insert(themedObjects, {inst=SFS, prop="Color", key="Accent"})
+
+local SFTitle = Instance.new("TextLabel", SF)
+SFTitle.Size = UDim2.new(1,-50,0,40)
+SFTitle.Position = UDim2.new(0,12,0,0)
+SFTitle.BackgroundTransparency = 1
+SFTitle.Text = "Settings - Theme Colors"
+SFTitle.TextColor3 = Theme.Accent
+SFTitle.Font = Enum.Font.GothamBold
+SFTitle.TextSize = 15
+SFTitle.TextXAlignment = Enum.TextXAlignment.Left
+SFTitle.ZIndex = 21
+
+reg(SFTitle, "TextColor3", "Accent")
+
+local SFC = Instance.new("TextButton", SF)
+SFC.Size = UDim2.new(0,32,0,26)
+SFC.Position = UDim2.new(1,-38,0,7)
+SFC.BackgroundColor3 = Theme.Accent
+SFC.BackgroundTransparency = 0.2
+SFC.BorderSizePixel = 0
+SFC.Text = "X"
+SFC.TextColor3 = Theme.BtnText
+SFC.Font = Enum.Font.GothamBold
+SFC.TextSize = 13
+SFC.ZIndex = 21
+
+Instance.new("UICorner", SFC).CornerRadius = UDim.new(1, 0)
+
+SFC.MouseButton1Click:Connect(function()
+	SF.Visible = false
+	UI_ACTIVE = false
+end)
+
+reg(SFC, "BackgroundColor3", "Accent")
+reg(SFC, "TextColor3", "BtnText")
+
+local SFScroll = Instance.new("ScrollingFrame", SF)
+SFScroll.Size = UDim2.new(1,-12,1,-50)
+SFScroll.Position = UDim2.new(0,6,0,46)
+SFScroll.BackgroundTransparency = 1
+SFScroll.BorderSizePixel = 0
+SFScroll.CanvasSize = UDim2.new(0,0,0,0)
+SFScroll.AutomaticCanvasSize = Enum.AutomaticSize.Y
+SFScroll.ScrollBarThickness = 4
+SFScroll.ScrollBarImageColor3 = Theme.Accent
+SFScroll.ZIndex = 21
+
+table.insert(themedObjects, {inst=SFScroll, prop="ScrollBarImageColor3", key="Accent"})
+
+local SFL = Instance.new("UIListLayout", SFScroll)
+SFL.Padding = UDim.new(0,10)
+SFL.SortOrder = Enum.SortOrder.LayoutOrder
+
+local SFP = Instance.new("UIPadding", SFScroll)
+SFP.PaddingLeft = UDim.new(0,8)
+SFP.PaddingRight = UDim.new(0,8)
+
+-- ============================================================
+-- SETTINGS DRAG (FIXED MOBILE + NO STICK)
+-- ============================================================
+
+do
+	local sfDrag = false
+	local sfDS, sfSP
+	local activeInput = nil
+
+	SF.InputBegan:Connect(function(i)
+		if not UI_ACTIVE then return end
+
+		if i.UserInputType == Enum.UserInputType.MouseButton1
+			or i.UserInputType == Enum.UserInputType.Touch then
+
+			sfDrag = true
+			activeInput = i
+			sfDS = i.Position
+			sfSP = SF.Position
+		end
+	end)
+
+	UserInputService.InputChanged:Connect(function(i)
+		if not UI_ACTIVE then return end
+		if not sfDrag then return end
+		if i ~= activeInput then return end
+
+		local d = i.Position - sfDS
+
+		SF.Position = UDim2.new(
+			sfSP.X.Scale, sfSP.X.Offset + d.X,
+			sfSP.Y.Scale, sfSP.Y.Offset + d.Y
+		)
+	end)
+
+	UserInputService.InputEnded:Connect(function(i)
+		if i == activeInput then
+			sfDrag = false
+			activeInput = nil
+		end
+	end)
+
+	SF:GetPropertyChangedSignal("Visible"):Connect(function()
+		if not SF.Visible then
+			sfDrag = false
+			activeInput = nil
+		end
+	end)
+end
+
+-- ============================================================
+-- OPEN / CLOSE
+-- ============================================================
+
+SettingsBtn.MouseButton1Click:Connect(function()
+	SF.Visible = not SF.Visible
+	UI_ACTIVE = SF.Visible
+end)
+
+-- ============================================================
+-- RGB PICKER + GUI TRANSPARENCY SLIDER (ADDED)
+-- ============================================================
+
+local chC = {
+	R = Color3.fromRGB(255,80,80),
+	G = Color3.fromRGB(80,210,80),
+	B = Color3.fromRGB(80,140,255)
+}
+
+-- ============================================================
+-- GUI TRANSPARENCY CONTROL (NEW)
+-- ============================================================
+
+local function addGuiTransparencySlider(parent)
+	local row = Instance.new("Frame", parent)
+	row.BackgroundTransparency = 1
+	row.Size = UDim2.new(1,0,0,70)
+
+	local lbl = Instance.new("TextLabel", row)
+	lbl.BackgroundTransparency = 1
+	lbl.Size = UDim2.new(1,-10,0,18)
+	lbl.Text = "GUI Transparency"
+	lbl.TextColor3 = Theme.LabelText
+	lbl.Font = Enum.Font.GothamBold
+	lbl.TextSize = 12
+	lbl.TextXAlignment = Enum.TextXAlignment.Left
+	reg(lbl, "TextColor3", "LabelText")
+
+	local trk = Instance.new("Frame", row)
+	trk.Size = UDim2.new(1,-20,0,8)
+	trk.Position = UDim2.new(0,0,0,28)
+	trk.BackgroundColor3 = Color3.fromRGB(40,60,80)
+	trk.BorderSizePixel = 0
+	Instance.new("UICorner", trk).CornerRadius = UDim.new(1,0)
+
+	local fill = Instance.new("Frame", trk)
+	fill.Size = UDim2.new(0.2,0,1,0)
+	fill.BackgroundColor3 = Theme.Accent
+	fill.BorderSizePixel = 0
+	Instance.new("UICorner", fill).CornerRadius = UDim.new(1,0)
+
+	local kn = Instance.new("Frame", trk)
+	kn.Size = UDim2.new(0,12,0,12)
+	kn.Position = UDim2.new(0.2,-6,0.5,-6)
+	kn.BackgroundColor3 = Color3.fromRGB(255,255,255)
+	Instance.new("UICorner", kn).CornerRadius = UDim.new(1,0)
+
+	local hit = Instance.new("TextButton", row)
+	hit.Size = UDim2.new(1,-20,0,40)
+	hit.Position = UDim2.new(0,0,0,20)
+	hit.BackgroundTransparency = 1
+	hit.Text = ""
+
+	local dragging = false
+
+	local function apply(v)
+		v = math.clamp(v, 0, 1)
+
+		fill.Size = UDim2.new(v,0,1,0)
+		kn.Position = UDim2.new(v,-6,0.5,-6)
+
+		MainFrame.BackgroundTransparency = v
+		TabBar.BackgroundTransparency = v + 0.05
+		ContentArea.BackgroundTransparency = v + 0.03
+	end
+
+	local function update(x)
+		local abs = trk.AbsolutePosition.X
+		local sz = trk.AbsoluteSize.X
+		local rel = math.clamp((x - abs) / sz, 0, 1)
+		apply(rel)
+	end
+
+	hit.InputBegan:Connect(function(i)
+		if not UI_ACTIVE then return end
+		if i.UserInputType == Enum.UserInputType.MouseButton1
+			or i.UserInputType == Enum.UserInputType.Touch then
+
+			dragging = true
+			update(i.Position.X)
+		end
+	end)
+
+	UserInputService.InputChanged:Connect(function(i)
+		if not dragging then return end
+		if i.UserInputType == Enum.UserInputType.MouseMovement
+			or i.UserInputType == Enum.UserInputType.Touch then
+
+			update(i.Position.X)
+		end
+	end)
+
+	UserInputService.InputEnded:Connect(function(i)
+		if i.UserInputType == Enum.UserInputType.MouseButton1
+			or i.UserInputType == Enum.UserInputType.Touch then
+
+			dragging = false
+		end
+	end)
+
+	apply(0.2)
+end
+
+-- ============================================================
+-- RGB PICKER
+-- ============================================================
+
+local function makeRGBRow(parent, rowLabel, themeKey)
+	local Z = 22
+
+	local row = Instance.new("Frame", parent)
+	row.BackgroundTransparency = 1
+	row.Size = UDim2.new(1,0,0,106)
+	row.ZIndex = Z
+
+	local hdr = Instance.new("TextLabel", row)
+	hdr.BackgroundTransparency = 1
+	hdr.Size = UDim2.new(1,-34,0,18)
+	hdr.Text = rowLabel
+	hdr.TextColor3 = Theme.LabelText
+	hdr.Font = Enum.Font.GothamBold
+	hdr.TextSize = 12
+	hdr.TextXAlignment = Enum.TextXAlignment.Left
+	hdr.ZIndex = Z
+
+	reg(hdr, "TextColor3", "LabelText")
+
+	local sw = Instance.new("Frame", row)
+	sw.Size = UDim2.new(0,26,0,26)
+	sw.Position = UDim2.new(1,-30,0,-4)
+	sw.BackgroundColor3 = Theme[themeKey]
+	sw.BorderSizePixel = 0
+	sw.ZIndex = Z
+
+	Instance.new("UICorner", sw).CornerRadius = UDim.new(0, 4)
+
+	local cur = {
+		R = math.round(Theme[themeKey].R * 255),
+		G = math.round(Theme[themeKey].G * 255),
+		B = math.round(Theme[themeKey].B * 255),
+	}
+
+	for i, ch in ipairs({"R","G","B"}) do
+		local y = 20 + (i-1)*28
+
+		local cl = Instance.new("TextLabel", row)
+		cl.BackgroundTransparency = 1
+		cl.Size = UDim2.new(0,14,0,20)
+		cl.Position = UDim2.new(0,0,0,y)
+		cl.Text = ch
+		cl.TextColor3 = chC[ch]
+		cl.Font = Enum.Font.GothamBold
+		cl.TextSize = 11
+		cl.ZIndex = Z
+
+		local trk = Instance.new("Frame", row)
+		trk.Size = UDim2.new(1,-66,0,8)
+		trk.Position = UDim2.new(0,18,0,y+6)
+		trk.BackgroundColor3 = Color3.fromRGB(40,60,80)
+		trk.BorderSizePixel = 0
+		trk.ZIndex = Z
+
+		Instance.new("UICorner", trk).CornerRadius = UDim.new(1, 0)
+
+		local fl = Instance.new("Frame", trk)
+		fl.Size = UDim2.new(cur[ch]/255,0,1,0)
+		fl.BackgroundColor3 = chC[ch]
+		fl.BorderSizePixel = 0
+		fl.ZIndex = Z+1
+
+		Instance.new("UICorner", fl).CornerRadius = UDim.new(1, 0)
+
+		local kn = Instance.new("Frame", trk)
+		kn.Size = UDim2.new(0,12,0,12)
+		kn.Position = UDim2.new(cur[ch]/255,-6,0.5,-6)
+		kn.BackgroundColor3 = Color3.fromRGB(255,255,255)
+		kn.BorderSizePixel = 0
+		kn.ZIndex = Z+2
+
+		Instance.new("UICorner", kn).CornerRadius = UDim.new(1, 0)
+
+		local vl = Instance.new("TextLabel", row)
+		vl.BackgroundTransparency = 1
+		vl.Size = UDim2.new(0,34,0,18)
+		vl.Position = UDim2.new(1,-48,0,y)
+		vl.Text = tostring(cur[ch])
+		vl.TextColor3 = Theme.LabelText
+		vl.Font = Enum.Font.Gotham
+		vl.TextSize = 11
+		vl.ZIndex = Z
+
+		reg(vl, "TextColor3", "LabelText")
+
+		local hit = Instance.new("TextButton", row)
+		hit.Size = UDim2.new(1,-66,0,20)
+		hit.Position = UDim2.new(0,18,0,y)
+		hit.BackgroundTransparency = 1
+		hit.Text = ""
+		hit.ZIndex = Z+3
+
+		local dc = false
+
+		local function upd(px)
+			if not UI_ACTIVE then return end
+
+			local abs = trk.AbsolutePosition.X
+			local sz = trk.AbsoluteSize.X
+			if sz == 0 then return end
+
+			local rel = math.clamp((px - abs) / sz, 0, 1)
+			local v = math.round(rel * 255)
+
+			cur[ch] = v
+
+			fl.Size = UDim2.new(rel, 0, 1, 0)
+			kn.Position = UDim2.new(rel, -6, 0.5, -6)
+			vl.Text = tostring(v)
+
+			Theme[themeKey] = Color3.fromRGB(cur.R, cur.G, cur.B)
+			sw.BackgroundColor3 = Theme[themeKey]
+
+			applyTheme()
+		end
+
+		hit.InputBegan:Connect(function(i)
+			if not UI_ACTIVE then return end
+
+			if i.UserInputType == Enum.UserInputType.MouseButton1
+				or i.UserInputType == Enum.UserInputType.Touch then
+
+				dc = true
+				upd(i.Position.X)
+			end
+		end)
+
+		UserInputService.InputChanged:Connect(function(i)
+			if not UI_ACTIVE then return end
+			if not dc then return end
+
+			if i.UserInputType == Enum.UserInputType.MouseMovement
+				or i.UserInputType == Enum.UserInputType.Touch then
+
+				upd(i.Position.X)
+			end
+		end)
+
+		UserInputService.InputEnded:Connect(function(i)
+			if i.UserInputType == Enum.UserInputType.MouseButton1
+				or i.UserInputType == Enum.UserInputType.Touch then
+
+				dc = false
+			end
+		end)
+	end
+end
+
+for _, r in ipairs({
+	{"Main BG","MainBG"},{"Tab Bar BG","TabBG"},{"Title Color","TitleColor"},{"Section BG","SectionBG"},
+	{"Accent / Buttons","Accent"},{"Button Text","BtnText"},{"Label Text","LabelText"},
+	{"Toggle ON","ToggleON"},{"Toggle OFF","ToggleOFF"},
+	{"Slider Fill","SliderFill"},{"Input BG","InputBG"},{"Settings BG","SettingsBG"},
+	}) do
+	makeRGBRow(SFScroll, r[1], r[2])
+end
+
+-- ADD TRANSPARENCY SLIDER
+addGuiTransparencySlider(SFScroll)
+
+applyTheme()
